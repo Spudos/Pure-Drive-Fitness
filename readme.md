@@ -76,23 +76,11 @@ Additional nav elements will be included to 'jump' to specific areas of interest
 
 There will also be links that allow a flow through the website.
 
-### Website flow
-
-The client and I had a website flow concept that would result in the customer using the sign up function
-
-It is important that the customer gains confidence in the client and feels that they are both knowledgeable and approachable
-
-Therefore, we included sections that cover each of these areas
-
-Help page - knowledgeable, how I can help
-About me - friendly, you can approach me
-Book Sessions and pricing
-
 ### Landing page image and style
 
 The landing page will include a hero image of someone completing a race or challenge promoting the idea that you too can succeed in your goals
 
-The body will include some simple links and icons to direct you to other areas of the site that you may be interested in
+The body will include some simple links and icons to direct you to other areas of the site that you may be interested in and some testimonial information
 
 ### How I Help page
 
@@ -102,17 +90,23 @@ The page should give the impression of the client having the required skills to 
 
 Imagery should focus on being aspirational showing customers how they can end up looking if they sign up with the client
 
+Include accreditation details
+
 ### Booking and pricing
 
 This page will show the various types of session and the price for each session
 
 This will also give information on how to book sessions
 
+There will be a featured sessions which would be some sort of cost effective package
+
 ### About me page
 
 This page is about introducing the client to the customer
 
 People often feel nervous about signing up with a Personal Trainer, so it is important to show that the client is a friendly and likable person who really wants to help the customer with their personal journey
+
+The text needs to highlight the training the client has undertaken
 
 ### Contact page
 
