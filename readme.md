@@ -46,6 +46,12 @@ She would like a website that has the following features:
 
 ## Wireframes
 
+### Mobile Wireframes
+
+[Link to mobile wireframe](https://share.balsamiq.com/c/rRtdFHGFVL9rqvgiqRiqKo.png)
+
+![Wireframes](https://share.balsamiq.com/c/rRtdFHGFVL9rqvgiqRiqKo.png)
+
 ## Features
 
 ### Colour Scheme and Font
@@ -82,7 +88,6 @@ Therefore, we included sections that cover each of these areas
 
 Help page - knowledgeable, how I can help
 About me - friendly, you can approach me
-Faves page - knowledgeable and friendly, these are the things I like and I know the right things to recommend
 Book Sessions and pricing
 
 ### Landing page image and style
@@ -98,10 +103,6 @@ This page highlights specific areas of training and how the client can help with
 The page should give the impression of the client having the required skills to achieve these goals
 
 Imagery should focus on being aspirational showing customers how they can end up looking if they sign up with the client
-
-### Favorites page
-
-This page is a combines the goals of the previous pages.  It aims to give the customer confidence that the client is knowledgeable but is presented as the client’s favourite ways to help you, so it feels more personal and friendly
 
 ### Booking and pricing
 
