@@ -1,5 +1,31 @@
 # Pure Drive Fitness
 
+## Table of Contents
+
+- [1.0 Introduction](#10-introduction)
+- [2.0 User Stories](#20-user-stories)
+  - [2.1 As a First Time User](#21-as-a-first-time-user)
+  - [2.2 As a Second Time User](#22-as-a-returning-user)
+- [3.0 Website Concept and Wireframes](#30-website-concept-and-wireframes)
+- [4.0 Features](#40-features)
+  - [4.1 Colour Scheme and Font](#41-colour-scheme-and-font)
+  - [4.2 Navigation](#42-navigation)
+- [5.0 Pages](#50-pages)
+  - [5.1 Index](#51-index)
+  - [5.2 How I Can Help](#52-how-i-can-help)
+  - [5.3 Booking and Pricing](#53-booking-and-pricing)
+  - [5.4 About Me](#54-about-me)
+  - [5.5 Contact](#55-contact)
+- [6.0 Footer](#60-footer)
+- [7.0 Testing](#70-testing)
+- [8.0 unresolved Bugs](#80-unresolved-bugs)
+- [9.0 Deployment](#90-deployment)
+- [10.0 Credits](#100-credits)
+  - [10.1 Content](#101-content)
+  - [10.2 Media](#102-media)
+
+## 1.0 Introduction
+
 A client of mine, has just finished training as a Personal Trainer
 
 Pure Drive Fitness aims to provide friendly, informed and tailored training for people who have specific targets in mind or want to feel better about their physical fitness.  The site needs to provide confidence that the client is a well-educated, friendly and professional and able to help with different areas of training.
@@ -20,9 +46,9 @@ She would like a website that has the following features:
 
 5. A footer that shows her social media information
 
-## User Stories
+## 2.0 User Stories
 
-### As a First Time User
+### 2.1 As a First Time User
 
 1. Find out what services are available, how they are priced and when they are available
 
@@ -36,7 +62,7 @@ She would like a website that has the following features:
 
 6. Read testimonials and success stories from other users
 
-### As a Returning User
+### 2.2 As a Returning User
 
 1. Check what services are available that the user has not undertaken yet
 
@@ -44,13 +70,13 @@ She would like a website that has the following features:
 
 3. Book sessions with the client
 
-## Website Concept and Wireframes
+## 3.0 Website Concept and Wireframes
 
 ![Wireframes](https://share.balsamiq.com/c/rRtdFHGFVL9rqvgiqRiqKo.png)
 
-## Features
+## 4.0 Features
 
-### Colour Scheme and Font
+### 4.1 Colour Scheme and Font
 
 The selected colour scheme for the site was as follows with purple the dominant colour.  Pink icons and borders would be used with white used mainly for text and backgrounds. We will add some animation to navigation links in order to add a little visual interest to the site
 
@@ -62,7 +88,7 @@ Transparancy will be used where appropriate to add any required variatiosn to th
 
 After a review of Google Fonts 'Poppins' was selected as the primary font
 
-### Navigation
+### 4.2 Navigation
 
 The nav function must exist on all pages and be fully responsive
 
@@ -74,13 +100,15 @@ Additional nav elements will be included to 'jump' to specific areas of interest
 
 There will also be links that allow a flow through the website.
 
-### Landing Page Image and Style
+## 5.0 Pages
+
+### 5.1 Index
 
 The landing page will include a hero image of someone completing a race or challenge promoting the idea that you too can succeed in your goals
 
 The body will include some simple links and icons to direct you to other areas of the site that you may be interested in and some testimonial information
 
-### How I Help Page
+### 5.2 How I Can Help
 
 This page highlights specific areas of training and how the client can help with it
 
@@ -90,7 +118,7 @@ Imagery should focus on being aspirational showing customers how they can end up
 
 Include accreditation details
 
-### Booking and Pricing
+### 5.3 Booking and Pricing
 
 This page will show the various types of session and the price for each session
 
@@ -98,7 +126,7 @@ This will also give information on how to book sessions
 
 There will be a featured sessions which would be some sort of cost effective package
 
-### About Me Page
+### 5.4 About Me
 
 This page is about introducing the client to the customer
 
@@ -106,7 +134,7 @@ People often feel nervous about signing up with a Personal Trainer, so it is imp
 
 The text needs to highlight the training the client has undertaken
 
-### Contact Page
+### 5.5 Contact
 
 We will include a simple sign-up form that does not require too much information so that there are few barriers to the sign up
 
@@ -114,22 +142,22 @@ We want to gather just enough information for the client to be able to contact t
 
 We will include location information in the form of google maps and an address
 
-### Footer
+### 6.0 Footer
 
 The footer will include links to social media (Instagram, Facebook, X) as the client will update customers on events via these mediums
 
-## Testing
+## 7.0 Testing
 
-## Unresolved Bugs
+## 8.0 Unresolved Bugs
 
-## Deployment
+## 9.0 Deployment
 
 The site will be deployed via github pages and can be found from this link
 
 [Pure-Drive-Fitness](https://spudos.github.io/Pure-Drive-Fitness/)
 
-## Credits
+## 10.0 Credits
 
-### Content
+### 10.1 Content
 
-### Media
+### 10.2 Media
