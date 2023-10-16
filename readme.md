@@ -46,8 +46,6 @@ She would like a website that has the following features:
 
 ## Wireframes
 
-### Mobile Wireframes
-
 [Link to mobile wireframe](https://share.balsamiq.com/c/rRtdFHGFVL9rqvgiqRiqKo.png)
 
 ![Wireframes](https://share.balsamiq.com/c/rRtdFHGFVL9rqvgiqRiqKo.png)
