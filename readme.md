@@ -4,25 +4,25 @@ A client of mine, has just finished training as a Personal Trainer
 
 Pure Drive Fitness aims to provide friendly, informed and tailored training for people who have specific targets in mind or want to feel better about their physical fitness.  The site needs to provide confidence that the client is a well-educated, friendly and professional and able to help with different areas of training.
 
-The target audience is primarily young to middle-aged female clients.  A simple, easy to use website would be the client’s preference.
+The target audience is primarily young to middle-aged female clients.  
+
+A simple, easy to use website would be the client’s preference.
 
 She would like a website that has the following features:
 
 1. Fully responsive
 
-2. Has a logical flow that leads to a contact me page
+2. Simple and easy to use navigation
 
-3. Has pages for the types of help she can give, information about her, pricing options and some of her favourite exercises and foods
+3. Has pages for the types of help she can give, information about her, pricing options and how to get in touch with her
 
-4. She has requested a colour scheme that incorporates the shade of purple that is her key corporate style plus other colours that soften the imagery and give it a more feminine feel
+4. She has requested a colour scheme that incorporates the shade of purple that is her key corporate style plus other colours that soften the imagery
 
 5. A footer that shows her social media information
 
-6. Simple and easy to use navigation
-
 ## User Stories
 
-### As a first time user
+### As a First Time User
 
 1. Find out what services are available, how they are priced and when they are available
 
@@ -36,17 +36,15 @@ She would like a website that has the following features:
 
 6. Read testimonials and success stories from other users
 
-### As a returning user
+### As a Returning User
 
-1. Check what other services maybe useful to the user
+1. Check what services are available that the user has not undertaken yet
 
 2. Contact the client
 
 3. Book sessions with the client
 
-## Wireframes
-
-[Link to mobile wireframe](https://share.balsamiq.com/c/rRtdFHGFVL9rqvgiqRiqKo.png)
+## Website Concept and Wireframes
 
 ![Wireframes](https://share.balsamiq.com/c/rRtdFHGFVL9rqvgiqRiqKo.png)
 
@@ -76,13 +74,13 @@ Additional nav elements will be included to 'jump' to specific areas of interest
 
 There will also be links that allow a flow through the website.
 
-### Landing page image and style
+### Landing Page Image and Style
 
 The landing page will include a hero image of someone completing a race or challenge promoting the idea that you too can succeed in your goals
 
 The body will include some simple links and icons to direct you to other areas of the site that you may be interested in and some testimonial information
 
-### How I Help page
+### How I Help Page
 
 This page highlights specific areas of training and how the client can help with it
 
@@ -92,7 +90,7 @@ Imagery should focus on being aspirational showing customers how they can end up
 
 Include accreditation details
 
-### Booking and pricing
+### Booking and Pricing
 
 This page will show the various types of session and the price for each session
 
@@ -100,7 +98,7 @@ This will also give information on how to book sessions
 
 There will be a featured sessions which would be some sort of cost effective package
 
-### About me page
+### About Me Page
 
 This page is about introducing the client to the customer
 
@@ -108,7 +106,7 @@ People often feel nervous about signing up with a Personal Trainer, so it is imp
 
 The text needs to highlight the training the client has undertaken
 
-### Contact page
+### Contact Page
 
 We will include a simple sign-up form that does not require too much information so that there are few barriers to the sign up
 
@@ -125,6 +123,10 @@ The footer will include links to social media (Instagram, Facebook, X) as the cl
 ## Unresolved Bugs
 
 ## Deployment
+
+The site will be deployed via github pages and can be found from this link
+
+[Pure-Drive-Fitness](https://spudos.github.io/Pure-Drive-Fitness/)
 
 ## Credits
 
