@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Poppins:wght@300&display=swap');
+
+/* remove default styles added by the browser to all elements */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* general styles */
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;  
+  background-color: rgb(70, 22, 154, 0.5);
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: rgb(255, 192, 203);
+}
+
+i {
+  padding: 0.5em 0.5em;
+}
+
+/* transfrom an item up 7px on hover */
+.trans:hover {
+  transform: translateY(-7px);
+  transition: all 0.3s;
+  background-color: var(--clr-accent);
+  color:rgb(70, 22, 154, 0.7);
+}
+
+/* transfrom an item right 7px on hover */
+.trans-right:hover {
+  transform: translateX(7px);
+  transition: all 0.3s;
+  background-color: var(--clr-accent);
+  color: rgb(255, 192, 203);
+}
+
+/* footer styling */
+footer {
+  width: 100%;
+  background-color: rgb(255, 192, 203);
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  text-align: center;
+  font-size: 125%;
+  justify-content: space-evenly;
+}
+
+/* style the header and logo */
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 99;
+  background-color: rgb(70, 22, 154, 0.7);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2em;
+  border-bottom: 2px solid rgb(255, 192, 203);
+}
+
+#logo {
+width: clamp(200px, 50%, 400px);
+}
+
+/* styling for the nav bar */
+ul {
+  list-style-type: none;
+  padding: 1em 0 1em 0;
+  line-height: 30px;
+}
+
+nav {
+  position: absolute;
+  top: 60px; /* controls how far from the top the menu is */
+  right: 10px; /* controls how far from the right the menu is */
+  background-color: rgb(255, 192, 203, 0.3);
+  padding: 0 1rem;
+  border: 2px solid rgb(255, 192, 203);
+  border-radius: 15px;
+  display: none;
+}
+
+/* nav toggle on/off */
+#nav-toggle:checked~nav {
+  display: block;
+}
+
+#nav-toggle {
+  display: none;
+}
+
+.nav-toggle-label {
+  font-size: 2rem;
+}
+
+/* styling for the nav bar links */
+header a {
+  text-decoration: none; /* Remove the underline */
+  color: inherit;
+}
+
+/* show when a page is active */
+.active { 
+  border-bottom: 1px solid rgb(255, 192, 203);
+}
