@@ -87,7 +87,7 @@ ul {
 
 nav {
   position: absolute;
-  top: 60px; /* controls how far from the top the menu is */
+  top: 70px; /* controls how far from the top the menu is */
   right: 10px; /* controls how far from the right the menu is */
   background-color: rgb(255, 192, 203, 0.3);
   padding: 0 1rem;
