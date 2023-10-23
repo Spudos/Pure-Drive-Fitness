@@ -24,7 +24,7 @@ a {
 }
 
 a:hover {
-  color: rgb(255, 192, 203);
+  color: rgb(255, 255, 255);
 }
 
 i {
@@ -44,7 +44,7 @@ i {
   transform: translateX(7px);
   transition: all 0.3s;
   background-color: var(--clr-accent);
-  color: rgb(255, 192, 203);
+  color: rgb(255, 255, 255);
 }
 
 /* footer styling */
@@ -89,11 +89,12 @@ nav {
   position: absolute;
   top: 70px; /* controls how far from the top the menu is */
   right: 10px; /* controls how far from the right the menu is */
-  background-color: rgb(255, 192, 203, 0.3);
+  background-color: rgb(255, 192, 203, 0.9);
   padding: 0 1rem;
-  border: 2px solid rgb(255, 192, 203);
+  border: 2px solid rgb(255, 255, 255);
   border-radius: 15px;
   display: none;
+  color: rgb(70, 22, 154);
 }
 
 /* nav toggle on/off */
@@ -117,7 +118,7 @@ header a {
 
 /* show when a page is active */
 .active { 
-  border-bottom: 1px solid rgb(255, 192, 203);
+  border-bottom: 1px solid rgb(70, 22, 154);
 }
 
 /* add the hero section with a background image */
@@ -132,12 +133,12 @@ header a {
   position: absolute;
   top: 60px;
   left: 10%;
-  
+  border: 2px solid rgb(255, 255, 255);
 }
 
 #hero-section p {
   text-align: center;
-  font-size: 220%;
+  font-size: 210%;
   color: rgb(70, 22, 154);
   font-weight: bolder;
   letter-spacing: 0.1em;
