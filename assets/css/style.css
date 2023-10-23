@@ -144,3 +144,41 @@ header a {
   font-family: 'Bangers', sans-serif;
   text-shadow: -1px -1px 0 rgb(255, 192, 203), 1px -1px 0 rgb(255, 192, 203), -1px 1px 0 rgb(255, 192, 203), 1px 1px 0 rgb(255, 192, 203);
 }
+
+/* styling for the index page */
+#index-body {
+  font-weight: bold;
+  margin-top: 175px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#main-links div a p{
+  text-decoration: none;
+  padding: 5px;
+  color: white;
+  text-align: center;
+}
+
+#main-links div a p:hover {
+  color: rgb(255, 192, 203);
+}
+
+#bottom-tag a h4 {
+  margin: 0 auto;
+  text-decoration: none;
+  padding: 5px;
+  color: white;
+  text-align: center;
+  border: 1px solid rgb(255, 192, 203);
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  margin-top: 15px;
+  width: 80%;
+}
+
+#bottom-tag a h4:hover {
+color: rgb(255, 192, 203);
+}
