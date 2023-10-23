@@ -184,3 +184,23 @@ header a {
 #main-links .right a p {
   text-align: right;
 }
+
+/* Styles for portrait tablets, portrait iPad, e-readers, landscape 800x480 phones */
+@media (min-width: 600px) {
+  
+}
+
+/* Styles for landscape tablets, landscape iPad, low-resolution laptops and desktops */
+@media (min-width: 801px) {
+  
+}
+
+/* Styles for big landscape tablets, laptops, and desktops */
+@media (min-width: 1025px) {
+  
+}
+
+/* Styles for high-resolution laptops and desktops */
+@media (min-width: 1281px) {
+  
+}
