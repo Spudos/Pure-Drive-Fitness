@@ -31,6 +31,24 @@ i {
   padding: 0.5em 0.5em;
 }
 
+
+.rounded-logo {
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border: 1px solid rgb(255, 192, 203);
+  font-size: 150%;
+  background-color: white;
+  color: rgb(255, 192, 203);
+}
+
+.testimonial {
+  margin-top: 20px;
+  width: 80%;
+  font-size: large;
+  text-align: center;
+  font-family: 'Amatic SC', sans-serif ;
+}
+
 /* transfrom an item up 7px on hover */
 .trans:hover {
   transform: translateY(-7px);
@@ -165,21 +183,4 @@ header a {
 
 #main-links .right a p {
   text-align: right;
-}
-
-.rounded-logo {
-  border-top-right-radius: 15px;
-  border-bottom-left-radius: 15px;
-  border: 1px solid rgb(255, 192, 203);
-  font-size: 150%;
-  background-color: white;
-  color: rgb(255, 192, 203);
-}
-
-.testimonial {
-  margin-top: 20px;
-  width: 80%;
-  font-size: large;
-  text-align: center;
-  font-family: 'Amatic SC', sans-serif ;
 }
