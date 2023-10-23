@@ -152,14 +152,12 @@ header a {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
 }
 
 #main-links div a p{
   text-decoration: none;
   padding: 5px;
   color: white;
-  text-align: center;
 }
 
 #main-links div a p:hover {
@@ -173,4 +171,8 @@ header a {
   font-size: 150%;
   background-color: white;
   color: rgb(255, 192, 203);
+}
+
+#main-links .right a p {
+  text-align: right;
 }
