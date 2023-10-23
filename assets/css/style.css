@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Poppins:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Bangers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Poppins:wght@300&family=Amatic+SC&display=swap');
 
 /* remove default styles added by the browser to all elements */
 * {
@@ -133,22 +132,27 @@ header a {
   position: absolute;
   top: 60px;
   left: 10%;
+  
 }
 
 #hero-section p {
   text-align: center;
-  font-size: 250%;
+  font-size: 220%;
   color: rgb(70, 22, 154);
-  font-weight: bold;
+  font-weight: bolder;
   letter-spacing: 0.1em;
-  font-family: 'Bangers', sans-serif;
+  font-family: 'Oswald', sans-serif;
   text-shadow: -1px -1px 0 rgb(255, 192, 203), 1px -1px 0 rgb(255, 192, 203), -1px 1px 0 rgb(255, 192, 203), 1px 1px 0 rgb(255, 192, 203);
+  height: 125px;
+  border-radius: 25px;
+  background-color: rgb(255, 192, 203, 0.6);
+  padding: 10px;
 }
 
 /* styling for the index page */
 #index-body {
   font-weight: bold;
-  margin-top: 120px;
+  margin-top: 140px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -180,6 +184,7 @@ header a {
 .testimonial {
   margin-top: 20px;
   width: 80%;
+  font-size: large;
   text-align: center;
   font-family: 'Amatic SC', sans-serif ;
 }
