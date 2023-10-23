@@ -127,17 +127,17 @@ header a {
   background-repeat: no-repeat;
   background-size: cover;
   width: 80%;
-  height: 150px;
+  height: 125px;
   margin: 20px auto 0;
   border-radius: 25px;
   position: absolute;
-  top: 80px;
+  top: 60px;
   left: 10%;
 }
 
 #hero-section p {
   text-align: center;
-  font-size: 300%;
+  font-size: 250%;
   color: rgb(70, 22, 154);
   font-weight: bold;
   letter-spacing: 0.1em;
@@ -148,7 +148,7 @@ header a {
 /* styling for the index page */
 #index-body {
   font-weight: bold;
-  margin-top: 190px;
+  margin-top: 120px;
   display: flex;
   flex-direction: column;
   align-items: center;
