@@ -119,3 +119,14 @@ header a {
 .active { 
   border-bottom: 1px solid rgb(255, 192, 203);
 }
+
+/* add the hero section with a background image */
+#hero-section {
+  background-image: url("/assets/images/hero.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 80%;
+  height: 150px;
+  margin: auto;
+  top: 0; 
+}
