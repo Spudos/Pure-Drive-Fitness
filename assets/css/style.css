@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
 
 /* remove default styles added by the browser to all elements */
 * {
@@ -122,11 +123,22 @@ header a {
 
 /* add the hero section with a background image */
 #hero-section {
-  background-image: url("/assets/images/hero.jpg");
+  background-image: url("/assets/images/background1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   width: 80%;
   height: 150px;
-  margin: auto;
-  top: 0; 
+  margin: 20px auto 0;
+  border-radius: 25px;
+  position: relative;
+}
+
+#hero-section p {
+  text-align: center;
+  font-size: 300%;
+  color: rgb(70, 22, 154);
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  font-family: 'Bangers', sans-serif;
+  text-shadow: -1px -1px 0 rgb(255, 192, 203), 1px -1px 0 rgb(255, 192, 203), -1px 1px 0 rgb(255, 192, 203), 1px 1px 0 rgb(255, 192, 203);
 }
