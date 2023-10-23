@@ -166,19 +166,11 @@ header a {
   color: rgb(255, 192, 203);
 }
 
-#bottom-tag a h4 {
-  margin: 0 auto;
-  text-decoration: none;
-  padding: 5px;
-  color: white;
-  text-align: center;
-  border: 1px solid rgb(255, 192, 203);
+.rounded-logo {
   border-top-right-radius: 15px;
   border-bottom-left-radius: 15px;
-  margin-top: 15px;
-  width: 80%;
-}
-
-#bottom-tag a h4:hover {
-color: rgb(255, 192, 203);
+  border: 1px solid rgb(255, 192, 203);
+  font-size: 150%;
+  background-color: white;
+  color: rgb(255, 192, 203);
 }
