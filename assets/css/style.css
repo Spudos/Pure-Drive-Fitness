@@ -350,4 +350,9 @@ div img {
   .heading-sm {
     width: 300px;
   }
+
+  .container {
+    display: inline-block;
+  }
+
 }
