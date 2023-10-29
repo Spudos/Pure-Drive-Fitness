@@ -36,7 +36,7 @@ i {
   border-bottom-left-radius: 15px;
   border-top-right-radius: 15px;
   border: 2px solid rgb(255, 255, 255);
-  width: 50%;
+  width: 70%;
   margin: auto;
 }
 
@@ -259,7 +259,7 @@ div img {
   border: 2px solid rgb(255, 192, 203);
   border-bottom-left-radius: 25px;
   border-top-right-radius: 25px;
-  width: 50%;
+  width: 60%;
   margin: auto;
 }
 
@@ -297,6 +297,18 @@ div img {
     width: 60%;
     margin: auto;
   }
+
+  #main-book {
+    margin-top: 110px;
+  }
+
+  #featured {
+    width: 300px;
+  }
+
+  .heading-sm {
+    width: 300px;
+  }
 }
 
 /* Styles for big landscape tablets, laptops, and desktops */
@@ -318,6 +330,11 @@ div img {
     width:50%;
     margin: 120px 0 50px 0;
   }
+
+  #main-book {
+    margin-top: 120px;
+  }
+
 }
 
 /* Styles for high-resolution laptops and desktops */
@@ -326,5 +343,11 @@ div img {
     width: 50%;
     left: 25%;
   } 
+  #featured {
+    width: 300px;
+  }
 
+  .heading-sm {
+    width: 300px;
+  }
 }
