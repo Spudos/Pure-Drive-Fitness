@@ -218,6 +218,7 @@ div img {
   border-bottom-left-radius: 15px;
   border-top-right-radius: 15px;
   padding: 10px;
+  margin-top: 10px;
 }
 
 /* Styles for portrait tablets, portrait iPad, e-readers, landscape 800x480 phones */
