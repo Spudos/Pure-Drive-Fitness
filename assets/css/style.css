@@ -209,6 +209,11 @@ main-help {
   border-top-right-radius: 15px;
 }
 
+.help-block {
+  position: relative;
+  display: inline-block;
+}
+
 main-help section img {
   height: 250px;
   width: 250px;
