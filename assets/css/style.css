@@ -221,6 +221,12 @@ div img {
   margin-top: 10px;
 }
 
+/* booking page styling */
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px; /* gap between rows */
+}
 
 
 
