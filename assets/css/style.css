@@ -187,9 +187,12 @@ header a {
 
 /* Styles for portrait tablets, portrait iPad, e-readers, landscape 800x480 phones */
 @media (min-width: 600px) {
-  
+  .testimonial {
+    width: 50%;
+  }
+
   #index-body {
-    margin-top: 80px;
+    margin-top: 100px;
   }
 }
 
@@ -214,6 +217,14 @@ header a {
   #hero-section {
     width: 60%;
     left: 20%;
+  }
+
+  #index-body {
+    margin-top: 90px;
+  }
+
+  .testimonial {
+    width: 30%;
   }
 }
 
