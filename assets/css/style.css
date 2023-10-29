@@ -192,7 +192,15 @@ header a {
 
 /* Styles for landscape tablets, landscape iPad, low-resolution laptops and desktops */
 @media (min-width: 801px) {
-  
+  #hero-section {
+    height: 80px;
+    top: 120px;
+  }
+
+  #hero-section p {
+    height: 80px;
+    top: 90px;
+  }
 }
 
 /* Styles for big landscape tablets, laptops, and desktops */
