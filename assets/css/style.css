@@ -245,6 +245,11 @@ div img {
   #index-body {
     margin-top: 60px;
   }
+
+  .accreditation {
+    width: 60%;
+    margin: auto;
+  }
 }
 
 /* Styles for big landscape tablets, laptops, and desktops */
@@ -260,6 +265,11 @@ div img {
 
   .testimonial {
     width: 30%;
+  }
+
+  main {
+    width:50%;
+    margin: 120px 0 50px 0;
   }
 }
 
