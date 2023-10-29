@@ -233,6 +233,12 @@ div img {
   gap: 10px; /* gap between blocks */
 }
 
+.block {
+  border: 2px solid rgb(255, 255, 255);
+  padding: 10px;
+  text-align: center;
+  flex: 1; /* distribute available space evenly */
+}
 
 
 /* Styles for portrait tablets, portrait iPad, e-readers, landscape 800x480 phones */
