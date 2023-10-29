@@ -200,6 +200,14 @@ main-help {
   margin-bottom: 20px;
 }
 
+.accreditation {
+  display: flex;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border: 2px solid rgb(255, 255, 255);
+  margin: 20px 0 20px 0;
+}
+
 main-help section img {
   height: 75px;
   width: 75px;
