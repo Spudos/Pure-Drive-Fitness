@@ -258,6 +258,10 @@ div img {
   border-bottom-left-radius: 25px;
   border-top-right-radius: 25px;
 }
+
+.booking-info {
+  margin: 20px 0 20px 0;
+}
 /*================================================================*/
 /* Styles for portrait tablets, portrait iPad, e-readers, landscape 800x480 phones */
 @media (min-width: 600px) {
