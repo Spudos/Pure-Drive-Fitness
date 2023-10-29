@@ -221,6 +221,9 @@ div img {
   margin-top: 10px;
 }
 
+
+
+
 /* Styles for portrait tablets, portrait iPad, e-readers, landscape 800x480 phones */
 @media (min-width: 600px) {
   .testimonial {
