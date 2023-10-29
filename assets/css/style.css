@@ -13,9 +13,9 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;  
-  background-color: rgb(70, 22, 154, 0.5);
   color: white;
   font-family: 'Poppins', sans-serif;
+  background-color: rgb(70, 22, 154, 0.7);
 }
 
 a {
@@ -215,7 +215,6 @@ header a {
     width: 60%;
     left: 20%;
   }
-
 }
 
 /* Styles for high-resolution laptops and desktops */
