@@ -36,6 +36,8 @@ i {
   border-bottom-left-radius: 15px;
   border-top-right-radius: 15px;
   border: 2px solid rgb(255, 255, 255);
+  width: 50%;
+  margin: auto;
 }
 
 .rounded-logo {
@@ -257,6 +259,8 @@ div img {
   border: 2px solid rgb(255, 192, 203);
   border-bottom-left-radius: 25px;
   border-top-right-radius: 25px;
+  width: 50%;
+  margin: auto;
 }
 
 .booking-info {
