@@ -214,5 +214,8 @@ header a {
 
 /* Styles for high-resolution laptops and desktops */
 @media (min-width: 1281px) {
-
+  #hero-section {
+    width: 50%;
+    left: 25%;
+  } 
 }
