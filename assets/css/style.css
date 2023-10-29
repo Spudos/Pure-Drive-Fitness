@@ -228,6 +228,11 @@ div img {
   gap: 10px; /* gap between rows */
 }
 
+.row {
+  display: flex;
+  gap: 10px; /* gap between blocks */
+}
+
 
 
 /* Styles for portrait tablets, portrait iPad, e-readers, landscape 800x480 phones */
