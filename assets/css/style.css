@@ -193,32 +193,19 @@ main-help {
   align-items: center;
 }
 
-.overlay-text {
-  position: absolute;
-  top: 60%;
-  left: 40%;
-  transform: translate(-50%, -50%);
-  color: #46169a;
-  font-size: 24px;
-  font-weight: bold;
-  text-align: center;
-  background-color: rgba(255, 192, 203, 0.8);
-  padding: 10px;
-  font-size: 80%;
-  border-bottom-left-radius: 15px;
-  border-top-right-radius: 15px;
-}
-
 .help-block {
-  position: relative;
-  display: inline-block;
+  width: 80%;
+  display: flex;
+  font-size: 80%;
+  margin-bottom: 20px;
 }
 
 main-help section img {
-  height: 250px;
-  width: 250px;
+  height: 75px;
+  width: 75px;
   border-bottom-left-radius: 15px;
   border-top-right-radius: 15px;
+  padding: 10px;
 }
 
 /* Styles for portrait tablets, portrait iPad, e-readers, landscape 800x480 phones */
