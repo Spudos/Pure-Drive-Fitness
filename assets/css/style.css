@@ -222,7 +222,14 @@ div img {
 }
 
 /* booking page styling */
-.container {
+#main-book {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  margin-top: 80px;
+}
+
+}.container {
   display: flex;
   flex-direction: column;
   gap: 10px; /* gap between rows */
