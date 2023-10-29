@@ -230,7 +230,7 @@ div img {
   margin-bottom: 50px;
 }
 
-}.container {
+.container {
   display: flex;
   flex-direction: column;
   gap: 10px; /* gap between rows */
@@ -247,6 +247,11 @@ div img {
   flex: 1; /* distribute available space evenly */
 }
 
+#featured {
+  border: 2px solid rgb(255, 192, 203);
+  border-bottom-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
 
 /* Styles for portrait tablets, portrait iPad, e-readers, landscape 800x480 phones */
 @media (min-width: 600px) {
