@@ -185,6 +185,23 @@ header a {
   text-align: right;
 }
 
+/* help page styling */
+.overlay-text {
+  position: absolute;
+  top: 60%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  color: #46169a;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  background-color: rgba(255, 192, 203, 0.8);
+  padding: 10px;
+  font-size: 80%;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
 /* Styles for portrait tablets, portrait iPad, e-readers, landscape 800x480 phones */
 @media (min-width: 600px) {
   .testimonial {
