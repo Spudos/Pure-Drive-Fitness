@@ -171,7 +171,7 @@ header a {
 /* styling for the index page */
 #index-body {
   font-weight: bold;
-  margin-top: 140px;
+  margin-top: 120px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -188,18 +188,24 @@ header a {
 /* Styles for portrait tablets, portrait iPad, e-readers, landscape 800x480 phones */
 @media (min-width: 600px) {
   
+  #index-body {
+    margin-top: 80px;
+  }
 }
 
 /* Styles for landscape tablets, landscape iPad, low-resolution laptops and desktops */
 @media (min-width: 801px) {
   #hero-section {
     height: 80px;
-    top: 120px;
+    top: 100px;
   }
 
   #hero-section p {
     height: 80px;
-    top: 90px;
+  }
+
+  #index-body {
+    margin-top: 60px;
   }
 }
 
@@ -218,4 +224,5 @@ header a {
     width: 50%;
     left: 25%;
   } 
+
 }
