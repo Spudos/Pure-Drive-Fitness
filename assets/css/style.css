@@ -202,6 +202,13 @@ header a {
   border-top-right-radius: 15px;
 }
 
+main-help section img {
+  height: 250px;
+  width: 250px;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
 /* Styles for portrait tablets, portrait iPad, e-readers, landscape 800x480 phones */
 @media (min-width: 600px) {
   .testimonial {
