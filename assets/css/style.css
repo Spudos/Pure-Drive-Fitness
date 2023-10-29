@@ -6,7 +6,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+/*================================================================*/
 /* general styles */
 body {
   min-height: 100vh;
@@ -70,7 +70,7 @@ i {
   background-color: var(--clr-accent);
   color: rgb(255, 255, 255);
 }
-
+/*================================================================*/
 /* footer styling */
 footer {
   width: 100%;
@@ -82,7 +82,7 @@ footer {
   font-size: 125%;
   justify-content: space-evenly;
 }
-
+/*================================================================*/
 /* style the header and logo */
 header {
   position: fixed;
@@ -101,7 +101,7 @@ header {
 #logo {
 width: clamp(200px, 50%, 400px);
 }
-
+/*================================================================*/
 /* styling for the nav bar */
 ul {
   list-style-type: none;
@@ -144,7 +144,7 @@ header a {
 .active { 
   border-bottom: 1px solid rgb(70, 22, 154);
 }
-
+/*================================================================*/
 /* add the hero section with a background image */
 #hero-section {
   background-image: url("/assets/images/background1.jpg");
@@ -173,7 +173,7 @@ header a {
   background-color: rgb(255, 192, 203, 0.6);
   padding: 10px;
 }
-
+/*================================================================*/
 /* styling for the index page */
 #index-body {
   font-weight: bold;
@@ -190,7 +190,7 @@ header a {
 #main-links .right a p {
   text-align: right;
 }
-
+/*================================================================*/
 /* help page styling */
 #main-help {
   width:80%;
@@ -226,7 +226,7 @@ div img {
   padding: 10px;
   margin-top: 10px;
 }
-
+/*================================================================*/
 /* booking page styling */
 #main-book {
   text-align: center;
@@ -258,7 +258,7 @@ div img {
   border-bottom-left-radius: 25px;
   border-top-right-radius: 25px;
 }
-
+/*================================================================*/
 /* Styles for portrait tablets, portrait iPad, e-readers, landscape 800x480 phones */
 @media (min-width: 600px) {
   .testimonial {
