@@ -316,14 +316,15 @@ div img {
 }
 
 #submit {
-  background-color: rgb(255, 192, 203, 0.7);
+  background-color: rgb(255, 192, 203);
   border-bottom-left-radius: 15px;
   border-top-right-radius: 15PX;
   width: 100px;
   height: 30px;
   margin: auto;
-  color: rgb(255, 255, 255);
+  color: rgb(70, 22, 154);
   font-size: larger;
+  font-weight: 800;
   border: 2px solid rgb(255, 255, 255);
 }
 
