@@ -469,14 +469,17 @@ margin-bottom: 50px;
 
   .testimonial {
     width: 30%;
+    font-size: larger;
   }
 
   #main-help {
     width:50%;
     margin: 120px 0 50px 0;
+    font-size: large;
   }
 
   #main-book {
+    font-size: large;
     margin-top: 120px;
   }
 
