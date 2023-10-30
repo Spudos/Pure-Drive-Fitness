@@ -326,6 +326,27 @@ div img {
   font-size: larger;
   border: 2px solid rgb(255, 255, 255);
 }
+
+input {
+  background-color: rgb(255, 192, 203, 0.8);
+  height: 30px;
+  margin: auto;
+  font-size: large;
+  color: rgb(70, 22, 154);
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 5px;
+}
+#first-name, #last-name {
+  width: 150px;
+}
+
+#email {
+  width: 200px;
+}
+
+#age {
+  width: 75px;
+}
 /*================================================================*/
 /* Styles for portrait tablets, portrait iPad, e-readers, landscape 800x480 phones */
 @media (min-width: 600px) {
