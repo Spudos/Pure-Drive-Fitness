@@ -12,7 +12,6 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: center;  
   color: white;
   font-family: 'Poppins', sans-serif;
   background-color: rgb(70, 22, 154, 0.7);
@@ -177,14 +176,20 @@ header a {
 /* styling for the index page */
 #index-body {
   font-weight: bold;
-  margin-top: 140px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  width:80%;
+  margin: auto;
+  margin-top: 200px;
+  text-align: center;
 }
 
 #index-body div a p:hover {
   color: rgb(255, 192, 203);
+}
+
+#main-links {
+  margin: auto;
+  width: 60%;
+  text-align: left;
 }
 
 #main-links .right a p {
@@ -395,6 +400,10 @@ margin-bottom: 50px;
     margin-top: 120px;
   }
 
+  #main-links {
+    width: 40%;
+  }
+
 }
 
 /* Styles for landscape tablets, landscape iPad, low-resolution laptops and desktops */
@@ -435,20 +444,23 @@ margin-bottom: 50px;
     margin: 120px 0 50px 0;
     font-size: large;
   }
-}
 
-#main-contact {
-  width: 80%;
-  justify-content: center;
-  margin: 120px 0 50px 0;
+  #main-links {
+    width: 30%;
+  }
+
+  #main-contact {
+    width: 80%;
+    justify-content: center;
+    margin: 120px 0 50px 0;
+    font-size: large;
+  }
+
+  .help-block {
   font-size: large;
+    width: 50%;
+  }
 }
-
-.help-block {
- font-size: large;
-  width: 50%;
-}
-
 
 /* Styles for big landscape tablets, laptops, and desktops */
 @media (min-width: 1025px) {
@@ -485,6 +497,11 @@ margin-bottom: 50px;
   iframe {
     width: 60%;
   }
+
+  #main-links {
+    width: 25%;
+  }
+
  }
 
 /* Styles for high-resolution laptops and desktops */
@@ -545,6 +562,10 @@ margin-bottom: 50px;
 
   #contact-mid {
     margin: 0px 50px 0 50px;
+  }
+
+  #main-links {
+    width: 20%;
   }
 
 }

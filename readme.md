@@ -6,7 +6,7 @@
 - [2.0 User Stories](#20-user-stories)
   - [2.1 As a First Time User](#21-as-a-first-time-user)
   - [2.2 As a Second Time User](#22-as-a-returning-user)
-- [3.0 Website Concept and Wireframes](#30-website-concept-and-wireframes)
+- [3.0 Website Concept and Wireframe](#30-website-concept-and-wireframe)
 - [4.0 Features](#40-features)
   - [4.1 Colour Scheme and Font](#41-colour-scheme-and-font)
   - [4.2 Navigation](#42-navigation)
