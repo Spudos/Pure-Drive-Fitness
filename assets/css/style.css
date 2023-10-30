@@ -284,7 +284,11 @@ div img {
 .profile-pic-active {
   width: 303px;
   height: 100px;
-  border-radius: 25px;
+  border-radius: 50%;
+}
+
+.profile-pic-steps {
+  border-radius: 50%;
 }
 /*================================================================*/
 /* Styles for portrait tablets, portrait iPad, e-readers, landscape 800x480 phones */
