@@ -151,9 +151,6 @@ header a {
 /*================================================================*/
 /* add the hero section with a background image */
 #hero-section {
-  background-image: url("/assets/images/background1.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
   width: 80%;
   height: 115px;
   margin: 20px auto 0;
@@ -174,7 +171,7 @@ header a {
   text-shadow: -1px -1px 0 rgb(255, 192, 203), 1px -1px 0 rgb(255, 192, 203), -1px 1px 0 rgb(255, 192, 203), 1px 1px 0 rgb(255, 192, 203);
   height: 115px;
   border-radius: 25px;
-  background-color: rgb(255, 192, 203, 0.6);
+  background-color: rgb(255, 192, 203);
   padding: 10px;
 }
 /*================================================================*/
