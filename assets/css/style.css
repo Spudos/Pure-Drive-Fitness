@@ -426,6 +426,7 @@ margin-bottom: 50px;
 
   #main-book {
     margin-top: 120px;
+    font-size: large;
   }
 
   #featured {
@@ -439,12 +440,14 @@ margin-bottom: 50px;
   #main-about {
     width: 70%;
     margin: 120px 0 50px 0;
+    font-size: large;
   }
 }
 
 #main-contact {
   width: 80%;
   margin: 120px 0 50px 0;
+  font-size: large;
 }
 
 /* Styles for big landscape tablets, laptops, and desktops */
