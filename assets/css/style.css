@@ -378,6 +378,11 @@ height: 40%;
 margin-bottom: 50px;
 }
 
+.sidebar {
+  width: 15%;
+  height: 40%;
+}
+
 /*================================================================*/
 /* Styles for portrait tablets, portrait iPad, e-readers, landscape 800x480 phones */
 @media (min-width: 600px) {
