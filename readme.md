@@ -30,7 +30,7 @@ A client of mine, has just finished training as a Personal Trainer
 
 Pure Drive Fitness aims to provide friendly, informed and tailored training for people who have specific targets in mind or want to feel better about their physical fitness.  The site needs to provide confidence that the client is a well-educated, friendly and professional and able to help with different areas of training.
 
-The target audience is primarily young to middle-aged female clients.  
+The target audience is primarily young to middle-aged clients.  
 
 A simple, easy to use website would be the client’s preference.
 
