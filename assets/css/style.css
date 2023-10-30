@@ -148,37 +148,28 @@ header a {
   border-bottom: 1px solid rgb(70, 22, 154);
 }
 /*================================================================*/
-/* add the hero section with a background image */
+/* add the main header */
 #hero-section {
   width: 80%;
-  height: 115px;
-  margin: 20px auto 0;
+  font-size: xx-large;
+  padding: 10px;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase; 
+  background-color: rgb(255, 192, 203);
+  color: rgb(70, 22, 154);
+  margin: 100px auto 0;
   border-radius: 25px;
-  position: absolute;
-  top: 60px;
-  left: 10%;
   border: 2px solid rgb(255, 255, 255);
 }
 
-#hero-section p {
-  text-align: center;
-  font-size: 210%;
-  color: rgb(70, 22, 154);
-  font-weight: bolder;
-  letter-spacing: 0.1em;
-  font-family: 'Oswald', sans-serif;
-  text-shadow: -1px -1px 0 rgb(255, 192, 203), 1px -1px 0 rgb(255, 192, 203), -1px 1px 0 rgb(255, 192, 203), 1px 1px 0 rgb(255, 192, 203);
-  height: 115px;
-  border-radius: 25px;
-  background-color: rgb(255, 192, 203);
-}
 /*================================================================*/
 /* styling for the index page */
 #index-body {
   font-weight: bold;
   width:80%;
   margin: auto;
-  margin-top: 200px;
+  margin-top: 20px;
   text-align: center;
 }
 
@@ -396,10 +387,6 @@ margin-bottom: 50px;
     width: 50%;
   }
 
-  #index-body {
-    margin-top: 120px;
-  }
-
   #main-links {
     width: 40%;
   }
@@ -409,16 +396,7 @@ margin-bottom: 50px;
 /* Styles for landscape tablets, landscape iPad, low-resolution laptops and desktops */
 @media (min-width: 801px) {
   #hero-section {
-    height: 80px;
-    top: 100px;
-  }
-
-  #hero-section p {
-    height: 80px;
-  }
-
-  #index-body {
-    margin-top: 100px;
+    margin: 120px auto 0;
   }
 
   .accreditation {
@@ -469,10 +447,6 @@ margin-bottom: 50px;
     left: 20%;
   }
 
-  #index-body {
-    margin-top: 120px;
-  }
-
   div img {
     height: 150px;
     width: 150px;
@@ -508,7 +482,6 @@ margin-bottom: 50px;
 @media (min-width: 1281px) {
 
   #index-body {
-    margin-top: 140px;
     font-size: large;
   }
 
@@ -516,6 +489,7 @@ margin-bottom: 50px;
     width: 50%;
     left: 25%;
   } 
+  
   #featured {
     width: 300px;
   }
