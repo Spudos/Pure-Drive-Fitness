@@ -457,6 +457,10 @@ margin-bottom: 50px;
     margin-top: 120px;
   }
 
+  iframe {
+    width: 60%;
+
+    }
 }
 
 /* Styles for high-resolution laptops and desktops */
