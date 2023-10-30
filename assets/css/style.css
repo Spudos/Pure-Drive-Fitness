@@ -302,7 +302,6 @@ div img {
   align-self: center;
   text-align: center;
   margin: 100px 0 50px 0;
-  display: flex;
 }
 
 .contact-pic {
@@ -380,7 +379,7 @@ margin-bottom: 50px;
 }
 
 .sidebar {
-  display: flex;
+  display: none;
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -400,6 +399,7 @@ margin-bottom: 50px;
   #index-body {
     margin-top: 100px;
   }
+
 }
 
 /* Styles for landscape tablets, landscape iPad, low-resolution laptops and desktops */
@@ -471,9 +471,8 @@ margin-bottom: 50px;
 
   iframe {
     width: 60%;
-
-    }
-}
+  }
+ }
 
 /* Styles for high-resolution laptops and desktops */
 @media (min-width: 1281px) {
@@ -512,4 +511,14 @@ margin-bottom: 50px;
     width: 200px;
     height: 200px;
   }
+
+ 
+  #main-contact {
+    display: flex;
+  }
+  
+  .sidebar {
+     display: flex;
+  }
+
 }
