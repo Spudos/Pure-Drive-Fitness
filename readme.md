@@ -86,13 +86,13 @@ White: rgb(255, 255, 255)
 
 Transparancy will be used where appropriate to add any required variatiosn to the colour scheme
 
-After a review of Google Fonts 'Poppins' was selected as the primary font
+After a review of Google Fonts 'Poppins' was selected as the primary font with Amatic SC used for quote style text
 
 ### 4.2 Navigation
 
 The nav function must exist on all pages and be fully responsive
 
-It will be identical on each page and will be shown as a 'hamburger' menu for smaller screens and as a horizontal list for larger screens
+It will be identical on each page and will be shown as a 'hamburger' menu
 
 This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button
 
@@ -104,7 +104,7 @@ There will also be links that allow a flow through the website.
 
 ### 5.1 Index
 
-The landing page will include a hero image of someone completing a race or challenge promoting the idea that you too can succeed in your goals
+The landing page will include a hero image connected to training in some way
 
 The body will include some simple links and icons to direct you to other areas of the site that you may be interested in and some testimonial information
 
