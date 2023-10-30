@@ -32,6 +32,7 @@ i {
 }
 
 .heading-sm {
+  color: rgb(70, 22, 154);
   background-color: rgb(255, 192, 203);
   border-bottom-left-radius: 15px;
   border-top-right-radius: 15px;
