@@ -184,6 +184,7 @@ header a {
   display: flex;
   flex-direction: column;
   align-items: center;
+  font-size: larger;
 }
 
 #index-body div a p:hover {
@@ -415,6 +416,7 @@ margin-bottom: 50px;
 
   #index-body {
     margin-top: 80px;
+    font-size: x-large;
   }
 
   .accreditation {
