@@ -163,6 +163,16 @@ header a {
   border: 2px solid rgb(255, 255, 255);
 }
 
+#hero {
+  width: 80%;
+  display: flex;
+  margin: auto;
+  margin-top: 20px;
+  border: 2px solid rgb(255, 255, 255);
+  border-bottom-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+
 /*================================================================*/
 /* styling for the index page */
 #index-body {
@@ -170,6 +180,7 @@ header a {
   width:80%;
   margin: auto;
   margin-top: 20px;
+  margin-bottom: 50px;
   text-align: center;
 }
 
@@ -476,6 +487,10 @@ margin-bottom: 50px;
     width: 25%;
   }
 
+  #hero {
+    width: 60%;
+  }
+
  }
 
 /* Styles for high-resolution laptops and desktops */
@@ -540,6 +555,10 @@ margin-bottom: 50px;
 
   #main-links {
     width: 20%;
+  }
+
+  #hero {
+    width: 40%;
   }
 
 }
