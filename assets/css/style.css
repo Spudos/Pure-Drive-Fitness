@@ -315,6 +315,17 @@ div img {
   flex-direction: column;
 }
 
+#submit {
+  background-color: rgb(255, 192, 203, 0.7);
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15PX;
+  width: 100px;
+  height: 30px;
+  margin: auto;
+  color: rgb(255, 255, 255);
+  font-size: larger;
+  border: 2px solid rgb(255, 255, 255);
+}
 /*================================================================*/
 /* Styles for portrait tablets, portrait iPad, e-readers, landscape 800x480 phones */
 @media (min-width: 600px) {
