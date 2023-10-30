@@ -291,6 +291,21 @@ div img {
   border-radius: 50%;
 }
 /*================================================================*/
+/* contact me page styling */
+#main-contact {
+  width: 80%;
+  align-self: center;
+  text-align: center;
+  margin: 80px 0 50px 0;
+}
+
+.contact-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 30%;
+}
+
+/*================================================================*/
 /* Styles for portrait tablets, portrait iPad, e-readers, landscape 800x480 phones */
 @media (min-width: 600px) {
   .testimonial {
