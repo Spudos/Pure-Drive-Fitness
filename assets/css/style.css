@@ -451,7 +451,7 @@ margin-bottom: 50px;
 }
 
 .help-block {
- font-size: larger;
+ font-size: large;
   width: 50%;
 }
 
@@ -465,6 +465,11 @@ margin-bottom: 50px;
 
   #index-body {
     margin-top: 120px;
+  }
+
+  div img {
+    height: 150px;
+    width: 150px;
   }
 
   .testimonial {
