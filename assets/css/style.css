@@ -351,6 +351,17 @@ input {
 #age {
   width: 75px;
 }
+
+label {
+  margin-top: 10px;
+}
+
+.radio {
+  text-align: left;
+  padding-left: 50px;
+}
+
+
 /*================================================================*/
 /* Styles for portrait tablets, portrait iPad, e-readers, landscape 800x480 phones */
 @media (min-width: 600px) {
