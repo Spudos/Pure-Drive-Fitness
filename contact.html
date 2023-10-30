@@ -35,40 +35,50 @@
       </nav>
   </header>
 
+  <h2 class="heading-sm">Contact Me</h2>
   <main id="main-contact">
-    <h2 class="heading-sm">Contact Me</h2>
-    <img src="assets/images/background.jpg" alt="a picture of a phone" class="sidebar">
-    <img src="assets/images/background1.jpg" alt="a picture of a phone" class="sidebar">
-    <div>
-      <img src="assets/images/phone.jpg" alt="a picture of a phone" class="contact-pic">
+    <div class="hidden">
+      <img src="assets/images/background.jpg" alt="a picture of a phone" class="sidebar">
     </div>
-    <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
-      <label for="first-name">First Name:</label>
-      <input type="text" id="first-name" name="first-name" required>
     
-      <label for="last-name">Last Name:</label>
-      <input type="text" id="last-name" name="last-name" required>
-    
-      <label for="email">Email Address:</label>
-      <input type="email" id="email" name="email" required>
-    
-      <label for="age">Age:</label>
-      <input type="number" id="age" name="age">
-      
-      <label>What is your main goal?:</label> 
-      <div class="radio">
-      <input type="radio" id="weight-loss" name="goal" value="weight-loss">
-      <label for="weight-loss">Weight Loss</label><br>
-      <input type="radio" id="toning" name="goal" value="toning">
-      <label for="toning">Toning</label><br>
-      <input type="radio" id="muscle-gain" name="goal" value="muscle-gain">
-      <label for="muscle-gain">Muscle Gain</label><br>
-      <input type="radio" id="training" name="goal" value="training">
-      <label for="training">Training</label><br>
+    <div>
+      <div>
+        <img src="assets/images/phone.jpg" alt="a picture of a phone" class="contact-pic">
       </div>
-      <input type="submit" value="Submit" id="submit">
-    </form>
+
+      <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
+        <label for="first-name">First Name:</label>
+        <input type="text" id="first-name" name="first-name" required>
+      
+        <label for="last-name">Last Name:</label>
+        <input type="text" id="last-name" name="last-name" required>
+      
+        <label for="email">Email Address:</label>
+        <input type="email" id="email" name="email" required>
+      
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age">
+        
+        <label>What is your main goal?:</label> 
+        <div class="radio">
+        <input type="radio" id="weight-loss" name="goal" value="weight-loss">
+        <label for="weight-loss">Weight Loss</label><br>
+        <input type="radio" id="toning" name="goal" value="toning">
+        <label for="toning">Toning</label><br>
+        <input type="radio" id="muscle-gain" name="goal" value="muscle-gain">
+        <label for="muscle-gain">Muscle Gain</label><br>
+        <input type="radio" id="training" name="goal" value="training">
+        <label for="training">Training</label><br>
+        </div>
+        <input type="submit" value="Submit" id="submit">
+      </form>
+    </div>
+
+    <div  class="hidden">
+      <img src="assets/images/background1.jpg" alt="a picture of a phone" class="sidebar">
+    </div>
   </main>
+  
   <div id="contact-footer">
     <p>You can also contact me via the methods below to check availability</p>
     <br>
