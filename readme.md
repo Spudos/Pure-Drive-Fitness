@@ -70,7 +70,7 @@ She would like a website that has the following features:
 
 3. Book sessions with the client
 
-## 3.0 Website Concept and Wireframes
+## 3.0 Website Concept and Wireframe
 
 ![Wireframes](https://share.balsamiq.com/c/rRtdFHGFVL9rqvgiqRiqKo.png)
 
