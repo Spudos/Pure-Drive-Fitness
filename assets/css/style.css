@@ -414,8 +414,7 @@ margin-bottom: 50px;
   }
 
   #index-body {
-    margin-top: 80px;
-    font-size: x-large;
+    margin-top: 100px;
   }
 
   .accreditation {
@@ -457,7 +456,7 @@ margin-bottom: 50px;
   }
 
   #index-body {
-    margin-top: 100px;
+    margin-top: 120px;
   }
 
   .testimonial {
@@ -480,6 +479,12 @@ margin-bottom: 50px;
 
 /* Styles for high-resolution laptops and desktops */
 @media (min-width: 1281px) {
+
+  #index-body {
+    margin-top: 140px;
+    font-size: large;
+  }
+
   #hero-section {
     width: 50%;
     left: 25%;
