@@ -368,6 +368,16 @@ input[type="radio"] {
   width: 25px;
 }
 
+#contact-footer {
+  text-align: center;
+}
+
+iframe {
+width: 80%;
+height: 40%;
+margin-bottom: 50px;
+}
+
 /*================================================================*/
 /* Styles for portrait tablets, portrait iPad, e-readers, landscape 800x480 phones */
 @media (min-width: 600px) {
