@@ -205,7 +205,9 @@ header a {
 
 .help-block {
   text-align: center;
+  margin: auto;
   margin-bottom: 20px;
+  width: 50%;
 }
 
 .accreditation {
@@ -447,6 +449,12 @@ margin-bottom: 50px;
   margin: 120px 0 50px 0;
   font-size: large;
 }
+
+.help-block {
+ font-size: larger;
+  width: 50%;
+}
+
 
 /* Styles for big landscape tablets, laptops, and desktops */
 @media (min-width: 1025px) {
