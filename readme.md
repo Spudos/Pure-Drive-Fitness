@@ -26,7 +26,7 @@
 
 ## 1.0 Introduction
 
-A client of mine, has just finished training as a Personal Trainer
+A client of mine has just finished training as a Personal Trainer
 
 Pure Drive Fitness aims to provide friendly, informed and tailored training for people who have specific targets in mind or want to feel better about their physical fitness.  The site needs to provide confidence that the client is a well-educated, friendly and professional and able to help with different areas of training.
 
