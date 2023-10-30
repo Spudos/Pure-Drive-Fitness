@@ -310,6 +310,11 @@ div img {
   border: 2px solid rgb(255, 255, 255);
 }
 
+#signup-form {
+  display: flex;
+  flex-direction: column;
+}
+
 /*================================================================*/
 /* Styles for portrait tablets, portrait iPad, e-readers, landscape 800x480 phones */
 @media (min-width: 600px) {
