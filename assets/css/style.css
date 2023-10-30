@@ -326,6 +326,8 @@ div img {
   font-size: larger;
   font-weight: 800;
   border: 2px solid rgb(255, 255, 255);
+  letter-spacing: 2px;
+  margin-top: 20px;
 }
 
 input {
@@ -333,6 +335,7 @@ input {
   height: 30px;
   margin: auto;
   font-size: large;
+  font-weight: 600;
   color: rgb(70, 22, 154);
   border: 1px solid rgb(255, 255, 255);
   border-radius: 5px;
@@ -342,7 +345,7 @@ input {
 }
 
 #email {
-  width: 200px;
+  width: 250px;
 }
 
 #age {
