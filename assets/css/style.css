@@ -302,6 +302,7 @@ div img {
   align-self: center;
   text-align: center;
   margin: 100px 0 50px 0;
+  display: flex;
 }
 
 .contact-pic {
@@ -379,8 +380,14 @@ margin-bottom: 50px;
 }
 
 .sidebar {
-  width: 15%;
-  height: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  margin-top: 100px;
+  width: 50%;
+  height: 80%;
 }
 
 /*================================================================*/
