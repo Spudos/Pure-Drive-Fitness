@@ -177,6 +177,9 @@ header a {
 /*================================================================*/
 /* styling for the index page */
 #index-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   font-weight: bold;
   width:80%;
   margin: auto;
@@ -185,27 +188,19 @@ header a {
   text-align: center;
 }
 
-#index-body div a p:hover {
-  color: rgb(255, 192, 203);
+.home-block {
+  display: flex;
+  margin-top: 10px;
 }
 
-#main-links {
-  margin: auto;
-  width: 60%;
+.home-block-text {
   text-align: left;
+  font-size: small;
+  padding: 0 10px 10px 10px;
 }
 
 #main-links .right a p {
   text-align: right;
-}
-/*================================================================*/
-/* help page styling */
-#main-help {
-  width:80%;
-  align-self: center;
-  margin: 100px 0 50px 0;
-  text-align: center;
-  font-size: smaller;
 }
 
 .help-block {
@@ -219,6 +214,7 @@ header a {
   border-bottom-left-radius: 15px;
   border-top-right-radius: 15px;
   border: 2px solid rgb(255, 192, 203);
+  margin: auto;
   margin-bottom: 20px;
   text-align: center;
 }
@@ -433,6 +429,10 @@ margin-bottom: 50px;
     width: 40%;
   }
 
+  #hero {
+    width: 60%;
+  }
+
 }
 
 /* Styles for landscape tablets, landscape iPad, low-resolution laptops and desktops */
@@ -441,6 +441,9 @@ margin-bottom: 50px;
     margin: 120px auto 0;
   }
 
+  #hero {
+    width: 50%;
+  }
   .accreditation {
     width: 60%;
     margin: auto;
@@ -519,7 +522,7 @@ margin-bottom: 50px;
   }
 
   #hero {
-    width: 60%;
+    width: 40%;
   }
 
  }
@@ -588,6 +591,6 @@ margin-bottom: 50px;
   }
 
   #hero {
-    width: 25%;
+    width: 30%;
   }
 }
