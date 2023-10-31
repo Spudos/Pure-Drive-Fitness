@@ -290,4 +290,4 @@ Pexels.com was used for the images on the website
 
 The site logo and favicon was produced by Sam Pierce
 
-[Sam Pierce](https://www.sampiercephotography.com)
+[Sam Pierce](https://www.sampiercephotography.co.uk)
