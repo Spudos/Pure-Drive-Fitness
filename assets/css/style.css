@@ -284,6 +284,14 @@ div img {
   background-color: rgb(70, 22, 154);
 }
 
+.flip-image {
+  transform: scaleX(-1);
+}
+
+.book-img img {
+  border: none;
+}
+
 #featured {
   display: flex;
   flex-direction: column;
