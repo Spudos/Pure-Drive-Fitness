@@ -623,12 +623,16 @@ margin-bottom: 50px;
  }
 
  .session-text {
-  height: 300px;
+  height: 400px;
 }
  }
 
 /* Styles for high-resolution laptops and desktops */
 @media (min-width: 1281px) {
+
+  .session-text {
+    height: 300px;
+  }
 
   #index-body {
     font-size: large;
@@ -641,6 +645,10 @@ margin-bottom: 50px;
   
   #featured {
     width: 300px;
+  }
+
+  #main-book {
+    width: 80%;
   }
 
   .heading-sm {
