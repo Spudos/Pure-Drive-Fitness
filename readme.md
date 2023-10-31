@@ -11,7 +11,7 @@
   - [2.1 As a First Time User](#21-as-a-first-time-user)
   - [2.2 As a Second Time User](#22-as-a-returning-user)
   - [2.3 As the Site Owner](#23-as-the-site-owner)
-- [3.0 Website Concept structure and Wireframe](#30-website-concept-and-wireframe)
+- [3.0 Website Concept, Structure and Wireframe](#30-website-concept-and-wireframe)
   - [3.1 Index](#31-index)
   - [3.2 Booking and Pricing](#32-booking-and-pricing)
   - [3.3 Booking Form](#33-booking-form)
@@ -27,7 +27,7 @@
   - [5.4 Performance](#54-performance)
   - [5.5 Browser Compatibility](#55-browser-compatibility)
   - [5.6 Test User Stories](#56-test-user-stories)
-- [6.0 unresolved Bugs](#60-unresolved-bugs)
+- [6.0 Unresolved Bugs](#60-unresolved-bugs)
 - [7.0 Deployment](#70-deployment)
 - [8.0 Credits](#80-credits)
   - [8.1 Media](#81-media)
@@ -80,8 +80,6 @@ A simple, easy to use website would be the client’s preference.
 
 ## 3.0 Website Concept and Wireframe
 
-![Wireframes](https://share.balsamiq.com/c/rRtdFHGFVL9rqvgiqRiqKo.png)
-
 ### 3.1 Index
 
 The landing page will include a hero image connected to training in some way
@@ -89,6 +87,8 @@ The landing page will include a hero image connected to training in some way
 The body will include some simple information to direct you to other areas of the site that you may be interested in and some testimonial information
 
 User Stories covered - 2, 6
+
+![Wireframes](https://share.balsamiq.com/c/oama4tKbiDbRy5hRoUdP3U.png)
 
 ### 3.2 Booking and Pricing
 
@@ -100,6 +100,8 @@ There will be a featured sessions which would be some sort of cost effective pac
 
 User Stories covered - 1, 2, 7, 9
 
+![Wireframes](https://share.balsamiq.com/c/6HLR6eLps2xexKuZK361Ci.png)
+
 ### 3.3 Booking Form
 
 The booking form will provide a simple tool to capture the initial information for thre client to make a booking
@@ -107,6 +109,8 @@ The booking form will provide a simple tool to capture the initial information f
 This will be navigated to via the booking page so that the user is aware of the pricing structure and style of the sessions before they make a booking
 
 User Stories covered - 1, 8, 9
+
+![Wireframes](https://share.balsamiq.com/c/k9c32c3NrsmGkCkpMqmNME.png)
 
 ### 3.4 About Me
 
@@ -118,6 +122,8 @@ The text needs to highlight the training the client has undertaken
 
 User Stories covered - 1, 2, 3
 
+![Wireframes](https://share.balsamiq.com/c/6yba6iwNgoZqxyf9vXNsqY.png)
+
 ### 3.5 Contact
 
 We will include a simple sign-up form that does not require too much information so that there are few barriers to the sign up
@@ -127,6 +133,8 @@ We want to gather just enough information for the client to be able to contact t
 We will include location information in the form of google maps and an address
 
 User Stories covered - 4, 5, 8
+
+![Wireframes](https://share.balsamiq.com/c/8qEQbK7Nawz2fgMXDofgwi.png)
 
 ## 4.0 Features
 
