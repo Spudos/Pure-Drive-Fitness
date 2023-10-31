@@ -12,8 +12,8 @@
   - [4.2 Navigation](#42-navigation)
 - [5.0 Pages](#50-pages)
   - [5.1 Index](#51-index)
-  - [5.2 How I Can Help](#52-how-i-can-help)
-  - [5.3 Booking and Pricing](#53-booking-and-pricing)
+  - [5.2 Booking and Pricing](#52-booking-and-pricing)
+  - [5.3 Booking Form](#53-booking-form)
   - [5.4 About Me](#54-about-me)
   - [5.5 Contact](#55-contact)
 - [6.0 Footer](#60-footer)
@@ -21,8 +21,7 @@
 - [8.0 unresolved Bugs](#80-unresolved-bugs)
 - [9.0 Deployment](#90-deployment)
 - [10.0 Credits](#100-credits)
-  - [10.1 Content](#101-content)
-  - [10.2 Media](#102-media)
+  - [10.1 Media](#101-media)
 
 ## 1.0 Introduction
 
@@ -96,35 +95,27 @@ It will be identical on each page and will be shown as a 'hamburger' menu
 
 This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button
 
-Additional nav elements will be included to 'jump' to specific areas of interest
-
-There will also be links that allow a flow through the website.
-
 ## 5.0 Pages
 
 ### 5.1 Index
 
 The landing page will include a hero image connected to training in some way
 
-The body will include some simple links and icons to direct you to other areas of the site that you may be interested in and some testimonial information
+The body will include some simple information to direct you to other areas of the site that you may be interested in and some testimonial information
 
-### 5.2 How I Can Help
-
-This page highlights specific areas of training and how the client can help with it
-
-The page should give the impression of the client having the required skills to achieve these goals
-
-Imagery should focus on being aspirational showing customers how they can end up looking if they sign up with the client
-
-Include accreditation details
-
-### 5.3 Booking and Pricing
+### 5.2 Booking and Pricing
 
 This page will show the various types of session and the price for each session
 
 This will also give information on how to book sessions
 
 There will be a featured sessions which would be some sort of cost effective package
+
+### 5.3 Booking Form
+
+The booking form will provide a simple tool to capture the initial information for thre client to make a booking
+
+This will be navigated to via the booking page so that the user is aware of the pricing structure and style of the sessions before they make a booking
 
 ### 5.4 About Me
 
@@ -148,16 +139,38 @@ The footer will include links to social media (Instagram, Facebook, X) as the cl
 
 ## 7.0 Testing
 
+The site has been tested on all formats from 320px wide (commonly used on iphones) up to full desktop sizes over 1800px.
+
+The W3C validation service was used to validate the HTML and CSS code with no errors reported
+
+Chrome lighthouse tools were used to verify that all accessibility and performance ratings were over 90%
+
 ## 8.0 Unresolved Bugs
+
+All bugs were resolved as they were discovered
 
 ## 9.0 Deployment
 
-The site will be deployed via github pages and can be found from this link
+The site is deployed via github pages and can be found from this link
 
 [Pure-Drive-Fitness](https://spudos.github.io/Pure-Drive-Fitness/)
 
 ## 10.0 Credits
 
-### 10.1 Content
+### 10.1 Media
 
-### 10.2 Media
+Google fonts was used for additional fonts as required
+
+[Google fonts](https://fonts.google.com/)
+
+Font Awesome was used to for icons
+
+[Font Awesome](https://fontawesome.com/)
+
+Pexels.com was used for the images on the website
+
+[pexels.com](https://www.pexels.com/)
+
+The site logo and favicon was produced by Sam Pierce
+
+[Sam Pierce](www.sampiercephotography.com)
