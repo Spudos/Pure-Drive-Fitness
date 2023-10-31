@@ -63,11 +63,11 @@ She would like a website that has the following features:
 
 ### 2.2 As a Returning User
 
-1. Check what services are available that the user has not undertaken yet
+7. Check what services are available that the user has not undertaken yet
 
-2. Contact the client
+8. Contact the client
 
-3. Book sessions with the client
+9. Book sessions with the client
 
 ## 3.0 Website Concept and Wireframe
 
@@ -103,6 +103,8 @@ The landing page will include a hero image connected to training in some way
 
 The body will include some simple information to direct you to other areas of the site that you may be interested in and some testimonial information
 
+User Stories covered - 2, 6
+
 ### 5.2 Booking and Pricing
 
 This page will show the various types of session and the price for each session
@@ -111,11 +113,15 @@ This will also give information on how to book sessions
 
 There will be a featured sessions which would be some sort of cost effective package
 
+User Stories covered - 1, 2, 7, 9
+
 ### 5.3 Booking Form
 
 The booking form will provide a simple tool to capture the initial information for thre client to make a booking
 
 This will be navigated to via the booking page so that the user is aware of the pricing structure and style of the sessions before they make a booking
+
+User Stories covered - 1, 8, 9
 
 ### 5.4 About Me
 
@@ -125,6 +131,8 @@ People often feel nervous about signing up with a Personal Trainer, so it is imp
 
 The text needs to highlight the training the client has undertaken
 
+User Stories covered - 1, 2, 3
+
 ### 5.5 Contact
 
 We will include a simple sign-up form that does not require too much information so that there are few barriers to the sign up
@@ -132,6 +140,8 @@ We will include a simple sign-up form that does not require too much information
 We want to gather just enough information for the client to be able to contact the customer and begin the process of arranging session
 
 We will include location information in the form of google maps and an address
+
+User Stories covered - 4, 5, 8
 
 ### 6.0 Footer
 
@@ -163,7 +173,7 @@ Google fonts was used for additional fonts as required
 
 [Google fonts](https://fonts.google.com/)
 
-Font Awesome was used to for icons
+Font Awesome was used for icons
 
 [Font Awesome](https://fontawesome.com/)
 
@@ -173,4 +183,4 @@ Pexels.com was used for the images on the website
 
 The site logo and favicon was produced by Sam Pierce
 
-[Sam Pierce](www.sampiercephotography.com)
+[Sam Pierce](https://www.sampiercephotography.com)
