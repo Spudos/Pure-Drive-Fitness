@@ -196,18 +196,11 @@ header a {
 .home-block-text {
   text-align: left;
   font-size: small;
-  padding: 0 10px 10px 10px;
+  padding: 20px 10px 10px 10px;
 }
 
-#main-links .right a p {
-  text-align: right;
-}
-
-.help-block {
-  text-align: center;
-  margin: auto;
-  margin-bottom: 20px;
-  width: 50%;
+.right {
+  justify-content: right;
 }
 
 .accreditation {
@@ -495,7 +488,7 @@ margin-bottom: 50px;
   }
 
   #main-links {
-    width: 40%;
+    width: 70%;
   }
 
   #hero {
@@ -543,7 +536,7 @@ margin-bottom: 50px;
   }
 
   #main-links {
-    width: 30%;
+    width: 60%;
   }
 
   #main-contact {
@@ -595,7 +588,7 @@ margin-bottom: 50px;
   }
 
   #main-links {
-    width: 25%;
+    width: 50%;
   }
 
   #hero {
@@ -681,7 +674,12 @@ margin-bottom: 50px;
   }
 
   #main-links {
-    width: 20%;
+    width: 40%;
+  }
+
+  .home-block-text {
+    padding-top: 20px;
+    font-size: large;
   }
 
   #hero {
