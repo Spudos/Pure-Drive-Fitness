@@ -237,7 +237,7 @@ div img {
 /* booking page styling */
 #main-book {
   text-align: center;
-  width: 80%;
+  width: 90%;
   margin: auto;
   margin-top: 100px;
   margin-bottom: 50px;
@@ -251,7 +251,6 @@ div img {
 }
 
 .row {
-  display: flex;
   gap: 10px; /* gap between blocks */
 }
 
@@ -294,7 +293,7 @@ div img {
   border: 2px solid rgb(255, 192, 203);
   border-bottom-left-radius: 25px;
   border-top-right-radius: 25px;
-  width: 60%;
+  
   margin: auto;
   padding: 10px;
 }
@@ -444,6 +443,7 @@ margin-bottom: 50px;
   #hero {
     width: 50%;
   }
+
   .accreditation {
     width: 60%;
     margin: auto;
@@ -455,7 +455,11 @@ margin-bottom: 50px;
   }
 
   #featured {
-    width: 300px;
+    width: 100%;
+  }
+
+  .row {
+    display: flex;
   }
 
   .heading-sm {
@@ -479,9 +483,8 @@ margin-bottom: 50px;
     font-size: large;
   }
 
-  .help-block {
-  font-size: large;
-    width: 50%;
+  .block {
+    
   }
 }
 
@@ -502,12 +505,6 @@ margin-bottom: 50px;
     font-size: larger;
   }
 
-  #main-help {
-    width:50%;
-    margin: 120px 0 50px 0;
-    font-size: large;
-  }
-
   #main-book {
     font-size: large;
     margin-top: 120px;
@@ -524,6 +521,17 @@ margin-bottom: 50px;
   #hero {
     width: 40%;
   }
+
+  #main-contact {
+    display: flex;
+  }
+
+  .sidebar {
+    display: flex;
+    height: 300px;
+    width: auto;
+    margin: 100px  50px 0 50px;
+ }
 
  }
 
@@ -550,6 +558,7 @@ margin-bottom: 50px;
   .container {
     display: inline-block;
   }
+
   #main-about {
     width: 50%;
   }
@@ -570,16 +579,9 @@ margin-bottom: 50px;
     width: 200px;
     height: 200px;
   }
- 
-  #main-contact {
-    display: flex;
-  }
   
   .sidebar {
-     display: flex;
      height: 450px;
-     width: auto;
-     margin: 100px  50px 0 50px;
   }
 
   #contact-mid {
