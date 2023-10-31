@@ -323,8 +323,7 @@ div img {
 }
 
 .profile-pic-active {
-  width: 303px;
-  height: 100px;
+  width: 90%;
   border-radius: 50%;
   border: 2px solid rgb(255, 255, 255);
 }
@@ -568,7 +567,6 @@ margin-bottom: 50px;
     width: 200px;
     height: 200px;
   }
-
  
   #main-contact {
     display: flex;
@@ -590,7 +588,6 @@ margin-bottom: 50px;
   }
 
   #hero {
-    width: 40%;
+    width: 25%;
   }
-
 }
