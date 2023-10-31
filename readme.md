@@ -168,7 +168,7 @@ about.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fspudos.githu
 
 contact.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fspudos.github.io%2FPure-Drive-Fitness%2Fcontact.html)
 
-style.css [results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjamie2210.github.io%2FCI_MS1_TBC%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+style.css [results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fspudos.github.io%2FPure-Drive-Fitness%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 Chrome lighthouse tools were used to verify that all accessibility and performance ratings were over 90%
 
