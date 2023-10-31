@@ -156,9 +156,9 @@ The footer will include links to social media (Instagram, Facebook, X) as the cl
 
 The site has been tested manually on all formats from 320px wide (commonly used on iphones) up to full desktop sizes over 1800px using using browser web developer tools
 
-### Performing tests on various devices
+### Tests on various devices
 
-- The website was checked on
+The website was checked on
 - Iphone 12
 - Iphone 14
 - Ipad Mini
@@ -214,6 +214,7 @@ Chrome lighthouse tools were used to verify that all performance ratings were sa
 </details>
 <details><summary>contact.html</summary>
 <img src="docs/lighthouse/lighthouse-contact.png">
+</details>
 
 ### Browser compatibility
 
