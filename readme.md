@@ -94,7 +94,7 @@ After a review of Google Fonts 'Poppins' was selected as the primary font with A
 
 ### 4.2 Navigation
 
-The nav function must exist on all pages and be fully responsive
+The navigation function must exist on all pages and be fully responsive
 
 It will be identical on each page and will be shown as a 'hamburger' menu
 
@@ -154,9 +154,21 @@ The footer will include links to social media (Instagram, Facebook, X) as the cl
 
 ## 7.0 Testing
 
-The site has been tested on all formats from 320px wide (commonly used on iphones) up to full desktop sizes over 1800px.
+The site has been tested on all formats from 320px wide (commonly used on iphones) up to full desktop sizes over 1800px using
 
 The W3C validation service was used to validate the HTML and CSS code with no errors reported
+
+index.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fspudos.github.io%2FPure-Drive-Fitness%2Findex.html)
+
+book.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fspudos.github.io%2FPure-Drive-Fitness%2Fbook.html)
+
+book-from.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fspudos.github.io%2FPure-Drive-Fitness%2Fbook-form.html)
+
+about.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fspudos.github.io%2FPure-Drive-Fitness%2Fabout.html)
+
+contact.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fspudos.github.io%2FPure-Drive-Fitness%2Fcontact.html)
+
+style.css [results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjamie2210.github.io%2FCI_MS1_TBC%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 Chrome lighthouse tools were used to verify that all accessibility and performance ratings were over 90%
 
