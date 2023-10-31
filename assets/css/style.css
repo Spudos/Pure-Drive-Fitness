@@ -250,8 +250,15 @@ div img {
 
 .container {
   display: flex;
+  flex-wrap: wrap;
   flex-direction: column;
   gap: 10px; /* gap between rows */
+}
+
+.block  a{
+  margin-top: 10px;
+  width: 200px;
+  align-self: center;
 }
 
 .row {
@@ -555,6 +562,10 @@ margin-bottom: 50px;
   .radio {
     padding-left: 25%;
   }
+
+  .session-text {
+    height: 500px;
+  }
 }
 
 /* Styles for big landscape tablets, laptops, and desktops */
@@ -606,6 +617,9 @@ margin-bottom: 50px;
     margin: 100px  50px 0 50px;
  }
 
+ .session-text {
+  height: 300px;
+}
  }
 
 /* Styles for high-resolution laptops and desktops */
