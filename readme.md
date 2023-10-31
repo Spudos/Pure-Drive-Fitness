@@ -20,6 +20,16 @@
 - [4.0 Features](#40-features)
   - [4.1 Colour Scheme and Font](#41-colour-scheme-and-font)
   - [4.2 Navigation](#42-navigation)
+  - [4.3 Hero Image](#43-hero-image)
+  - [4.4 Homepage Mid Section](#44-homepage-mid-section)
+  - [4.5 Testimonials](#45-testimonials)
+  - [4.6 Accreditations](#46-accreditations)
+  - [4.7 Information on Types of Session](#47-information-on-types-of-session)
+  - [4.8 Pricing](#48-pricing)
+  - [4.9 Booking Form](#49-booking-form)
+  - [4.10 About Me Section](#410-about-me-section)
+  - [4.11 Contact Me Section](#411-contact-me-section)
+  - [4.12 Map](#412-map)
 - [5.0 Testing](#50-testing)
   - [5.1 Tests on Various Devices](#51-tests-on-various-devices)
   - [5.2 HTML and CSS](#52-html-and-css)
@@ -157,6 +167,26 @@ The navigation function must exist on all pages and be fully responsive
 It will be identical on each page and will be shown as a 'hamburger' menu
 
 This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button
+
+### 4.3 Hero Image
+
+### 4.4 Homepage Mid Section
+
+### 4.5 Testimonials
+
+### 4.6 Accreditations
+
+### 4.7 Information on Types of Session
+
+### 4.8 Pricing
+
+### 4.9 Booking Form
+
+### 4.10 About Me Section
+
+### 4.11 Contact Me Section
+
+### 4.12 Map
 
 ## 5.0 Testing
 
