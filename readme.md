@@ -156,13 +156,15 @@ The footer will include links to social media (Instagram, Facebook, X) as the cl
 
 The site has been tested manually on all formats from 320px wide (commonly used on iphones) up to full desktop sizes over 1800px using using browser web developer tools
 
-The format was also checked on
-Iphone 12
-Iphone 14
-ipad Mini
-Ipad Pro 12.9"
-Macbook Pro
-Desktop PC
+### Performing tests on various devices
+
+- The website was checked on
+- Iphone 12
+- Iphone 14
+- Ipad Mini
+- Ipad Pro 12.9"
+- Macbook Pro
+- Desktop PC
 
 ### HTML and CSS
 
@@ -188,7 +190,7 @@ index.html [results](https://wave.webaim.org/report#/https://spudos.github.io/Pu
 
 book.html [results](https://wave.webaim.org/report#/https://spudos.github.io/Pure-Drive-Fitness/book.html)
 
-book-from.html [results](https://wave.webaim.org/report#/https://spudos.github.io/Pure-Drive-Fitness/book-form.html)
+book-form.html [results](https://wave.webaim.org/report#/https://spudos.github.io/Pure-Drive-Fitness/book-form.html)
 
 about.html [results](https://wave.webaim.org/report#/https://spudos.github.io/Pure-Drive-Fitness/about.html)
 
@@ -197,6 +199,29 @@ contact.html [results](https://wave.webaim.org/report#/https://spudos.github.io/
 ### Performance
 
 Chrome lighthouse tools were used to verify that all performance ratings were satisfactory
+
+<details><summary>index.html</summary>
+<img src="docs/lighthouse/lighthouse-index.png">
+</details>
+<details><summary>book.html</summary>
+<img src="docs/lighthouse/lighthouse-book.png">
+</details>
+<details><summary>book-form.html</summary>
+<img src="docs/lighthouse/lighthouse-book-form.png">
+</details>
+<details><summary>about.html</summary>
+<img src="docs/lighthouse/lighthouse-about.png">
+</details>
+<details><summary>contact.html</summary>
+<img src="docs/lighthouse/lighthouse-contact.png">
+
+### Browser compatibility
+
+The website was tested on the these browsers:
+
+- Google Chrome
+- Apple Safari
+- Mozilla Firefox
 
 ## 8.0 Unresolved Bugs
 
