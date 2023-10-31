@@ -1,11 +1,16 @@
 # Pure Drive Fitness
 
+![Mockup image](docs/multiple-devices.webp)
+
+[Live webpage](https://spudos.github.io/Pure-Drive-Fitness/index.html)
+
 ## Table of Contents
 
 - [1.0 Introduction](#10-introduction)
 - [2.0 User Stories](#20-user-stories)
   - [2.1 As a First Time User](#21-as-a-first-time-user)
   - [2.2 As a Second Time User](#22-as-a-returning-user)
+  - [2.3 As the Site Owner](#22-as-the-site-owner)
 - [3.0 Website Concept and Wireframe](#30-website-concept-and-wireframe)
 - [4.0 Features](#40-features)
   - [4.1 Colour Scheme and Font](#41-colour-scheme-and-font)
@@ -33,41 +38,41 @@ The target audience is primarily young to middle-aged clients.
 
 A simple, easy to use website would be the client’s preference.
 
-She would like a website that has the following features:
-
-1. Fully responsive
-
-2. Simple and easy to use navigation
-
-3. Has pages for the types of help she can give, information about her, pricing options and how to get in touch with her
-
-4. She has requested a colour scheme that incorporates the shade of purple that is her key corporate style plus other colours that soften the imagery
-
-5. A footer that shows her social media information
-
 ## 2.0 User Stories
 
 ### 2.1 As a First Time User
 
 1. Find out what services are available, how they are priced and when they are available
 
-2. Feel reassured that the client is knowledgable and qualified
+2. Contact the client to book sessions
 
-3. Learn about the client and her background
+3. Feel reassured that the client is knowledgable and qualified
 
-4. Find out where the client operates
+4. Learn about the client and her background
 
-5. Contact the client
+5. Find out where the client operates
 
-6. Read testimonials and success stories from other users
+6. Contact the client
+
+7. Read testimonials and success stories from other users
 
 ### 2.2 As a Returning User
 
-7. Check what services are available that the user has not undertaken yet
+8. Check what services are available that the user has not undertaken yet
 
-8. Contact the client
+9. Contact the client
 
-9. Book sessions with the client
+10. Book sessions with the client
+
+### 2.3 As the Site Owner
+
+11. Fully responsive
+
+12. Simple and easy to use navigation
+
+13. A colour scheme that incorporates the shade of purple that is her key corporate style plus other colours that soften the imagery
+
+14. A footer that shows her social media information
 
 ## 3.0 Website Concept and Wireframe
 
