@@ -154,7 +154,17 @@ The footer will include links to social media (Instagram, Facebook, X) as the cl
 
 ## 7.0 Testing
 
-The site has been tested on all formats from 320px wide (commonly used on iphones) up to full desktop sizes over 1800px using
+The site has been tested manually on all formats from 320px wide (commonly used on iphones) up to full desktop sizes over 1800px using using browser web developer tools
+
+The format was also checked on
+Iphone 12
+Iphone 14
+ipad Mini
+Ipad Pro 12.9"
+Macbook Pro
+Desktop PC
+
+### HTML and CSS
 
 The W3C validation service was used to validate the HTML and CSS code with no errors reported
 
@@ -170,7 +180,23 @@ contact.html [results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fspudos.git
 
 style.css [results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fspudos.github.io%2FPure-Drive-Fitness%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-Chrome lighthouse tools were used to verify that all accessibility and performance ratings were over 90%
+### Accessibility
+
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards
+
+index.html [results](https://wave.webaim.org/report#/https://spudos.github.io/Pure-Drive-Fitness/index.html)
+
+book.html [results](https://wave.webaim.org/report#/https://spudos.github.io/Pure-Drive-Fitness/book.html)
+
+book-from.html [results](https://wave.webaim.org/report#/https://spudos.github.io/Pure-Drive-Fitness/book-form.html)
+
+about.html [results](https://wave.webaim.org/report#/https://spudos.github.io/Pure-Drive-Fitness/about.html)
+
+contact.html [results](https://wave.webaim.org/report#/https://spudos.github.io/Pure-Drive-Fitness/contact.html)
+
+### Performance
+
+Chrome lighthouse tools were used to verify that all performance ratings were satisfactory
 
 ## 8.0 Unresolved Bugs
 
