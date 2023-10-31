@@ -73,6 +73,14 @@ i {
   background-color: var(--clr-accent);
   color: rgb(255, 255, 255);
 }
+
+.button {
+  padding: 15px;
+  border-radius: 50%;
+  background-color: rgb(255, 192, 203);
+  color: rgb(70, 22, 154);
+  border: 1px solid rgb(255, 255, 255);
+}
 /*================================================================*/
 /* footer styling */
 footer {
@@ -244,13 +252,6 @@ div img {
   margin: auto;
   margin-top: 100px;
   margin-bottom: 50px;
-  background-image: url('/assets/images/background2.webp');
-  background-repeat: no-repeat;
-  background-size: cover;
-  border: 2px solid rgb(255,255,255);
-  color: rgb(70, 22, 154);
-  border-bottom-left-radius: 25px;
-  border-top-right-radius: 25px;
   padding: 10px;
 }
 
@@ -269,6 +270,10 @@ div img {
   padding: 10px;
   text-align: center;
   flex: 1; /* distribute available space evenly */
+  border: 2px solid rgb(255, 192, 203);
+  border-bottom-left-radius: 25px;
+  border-top-right-radius: 25px;
+
 }
 
 #featured {
