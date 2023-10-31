@@ -233,6 +233,10 @@ div img {
   margin-top: 10px;
   border: 2px solid rgb(255, 255, 255);
 }
+
+#bottom-tag a:hover {
+  color: rgb(255, 192, 203);
+}
 /*================================================================*/
 /* booking page styling */
 #main-book {
@@ -301,6 +305,87 @@ div img {
 .booking-info {
   margin: 20px 0 20px 0;
 }
+
+/*================================================================*/
+/* booking form page styling */
+#main-booking {
+  width: 80%;
+  align-self: center;
+  text-align: center;
+  margin: 100px 0 50px 0 ;
+}
+
+#booking-form {
+  display: flex;
+  flex-direction: column;
+}
+
+#submit {
+  background-color: rgb(255, 192, 203);
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15PX;
+  width: 100px;
+  height: 30px;
+  margin: auto;
+  color: rgb(70, 22, 154);
+  font-size: larger;
+  font-weight: 700;
+  border: 2px solid rgb(255, 255, 255);
+  letter-spacing: 2px;
+  margin-top: 20px;
+}
+
+#submit:hover {
+  background-color: rgb(70, 22, 154);
+  color: rgb(255, 192, 203);
+
+}
+
+input {
+  background-color: rgb(255, 192, 203, 0.8);
+  height: 30px;
+  margin: auto;
+  font-size: large;
+  font-weight: 600;
+  color: rgb(70, 22, 154);
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 5px;
+}
+#first-name, #last-name {
+  width: 150px;
+}
+
+#email {
+  width: 250px;
+}
+
+#age {
+  width: 75px;
+}
+
+label {
+  font-size: small;
+  margin-top: 10px;
+}
+
+.radio {
+  margin: auto;
+  text-align: left;
+  padding-left: 50px;
+}
+
+input[type="radio"] {
+  height: 25px;
+  width: 25px;
+}
+
+.sidebar {
+  display: none;
+  flex-direction: column;
+  margin: auto;
+  margin-top: 100px;
+}
+
 /*================================================================*/
 /* about me page styling */
 #main-about {
@@ -348,21 +433,6 @@ div img {
   flex-direction: column;
 }
 
-#submit {
-  background-color: rgb(255, 192, 203);
-  border-bottom-left-radius: 15px;
-  border-top-right-radius: 15PX;
-  width: 100px;
-  height: 30px;
-  margin: auto;
-  color: rgb(70, 22, 154);
-  font-size: larger;
-  font-weight: 700;
-  border: 2px solid rgb(255, 255, 255);
-  letter-spacing: 2px;
-  margin-top: 20px;
-}
-
 input {
   background-color: rgb(255, 192, 203, 0.8);
   height: 30px;
@@ -392,7 +462,7 @@ label {
 .radio {
   margin: auto;
   text-align: left;
-  padding-left: 50px;
+  padding-left: 20%;
 }
 
 input[type="radio"] {
@@ -408,13 +478,6 @@ iframe {
 width: 80%;
 height: 40%;
 margin-bottom: 50px;
-}
-
-.sidebar {
-  display: none;
-  flex-direction: column;
-  margin: auto;
-  margin-top: 100px;
 }
 
 /*================================================================*/
@@ -483,8 +546,14 @@ margin-bottom: 50px;
     font-size: large;
   }
 
-  .block {
-    
+  #main-booking {
+    width: 80%;
+    justify-content: center;
+    margin: 120px 0 50px 0;
+    font-size: large;
+  }
+  .radio {
+    padding-left: 25%;
   }
 }
 
@@ -523,6 +592,10 @@ margin-bottom: 50px;
   }
 
   #main-contact {
+    display: flex;
+  }
+
+  #main-booking {
     display: flex;
   }
 
@@ -585,6 +658,10 @@ margin-bottom: 50px;
   }
 
   #contact-mid {
+    margin: 0px 50px 0 50px;
+  }
+
+  #booking-mid {
     margin: 0px 50px 0 50px;
   }
 

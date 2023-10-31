@@ -29,15 +29,17 @@
           <li class="trans-right"><a href="index.html">Home</a></li>
           <li class="trans-right"><a href="book.html">Book</a></li>
           <li class="trans-right"><a href="about.html">About</a></li>
-          <li class="trans-right"><a href="contact.html" class="active">Contact</a></li>
+          <li class="trans-right"><a href="contact.html">Contact</a></li>
         </ul>
       </nav>
   </header>
-
   
   <main id="main-booking">
-        
-      <div id="contact-mid">
+    <div class="hidden">
+      <img src="assets/images/background.webp" alt="a picture of a phone" class="sidebar">
+    </div>
+      
+      <div id="booking-mid">
         <h2 class="heading-sm">Book A Session</h2>  
         <form id="booking-form" method="POST" action="https://formdump.codeinstitute.net">
         <label for="first-name">First Name:</label>
@@ -51,27 +53,32 @@
         
         <label>What session type would you like to book?:</label> 
         <div class="radio">
-        <br>
-        <h2>Featured Session</h2>
-        <input type="radio" id="tone-double" name="goal" value="tone-double">
-        <label for="tone-double">Tone Double Session</label><br>
-        <br>
-        <h2>Other Sessions</h2>
-        <input type="radio" id="nutrition-single" name="goal" value="nutrition-single">
-        <label for="weight-loss">Nutrition Single Session</label><br>
-        <input type="radio" id="weight-single" name="goal" value="weight-single">
-        <label for="toning">Weight Single Session</label><br>
-        <input type="radio" id="training-single" name="goal" value="training-single">
-        <label for="muscle-gain">Trainign Single Session</label><br>
-        <input type="radio" id="nutrition-super" name="goal" value="nutrition-super">
-        <label for="weight-loss">Nutrition Super Session</label><br>
-        <input type="radio" id="weight-super" name="goal" value="weight-super">
-        <label for="toning">Weight Super Session</label><br>
+          <br>
+          <h2>Featured Session</h2>
+          <input type="radio" id="tone-double" name="session" value="tone-double">
+          <label for="tone-double">Tone Double Session</label><br>
+          <br>
+          <h2>Other Sessions</h2>
+          <input type="radio" id="nutrition-single" name="session" value="nutrition-single">
+          <label for="weight-loss">Nutrition Single Session</label><br>
+          <input type="radio" id="weight-single" name="session" value="weight-single">
+          <label for="toning">Weight Single Session</label><br>
+          <input type="radio" id="training-single" name="session" value="training-single">
+          <label for="muscle-gain">Trainign Single Session</label><br>
+          <input type="radio" id="nutrition-super" name="session" value="nutrition-super">
+          <label for="weight-loss">Nutrition Super Session</label><br>
+          <input type="radio" id="weight-super" name="session" value="weight-super">
+          <label for="toning">Weight Super Session</label><br>
+          <label for="date">Please select a date that would suit you and I will be in touch shortly to confirm what times I have available:</label><br>
+          <input type="date" id="date" name="date">        
         </div>
         <input type="submit" value="Submit" id="submit">
         </form>
       </div>
 
+      <div class="hidden">
+        <img src="assets/images/background1.webp" alt="a picture of a phone" class="sidebar">
+      </div>
   </main>
 
     <footer>
