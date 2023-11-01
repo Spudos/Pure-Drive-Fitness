@@ -31,6 +31,7 @@
   - [4.11 Contact Me Section](#411-contact-me-section)
   - [4.12 Map](#412-map)
   - [4.13 Logo](#413-logo)
+  - [4.14 Footer](#414-footer)
 - [5.0 Testing](#50-testing)
   - [5.1 Tests on Various Devices](#51-tests-on-various-devices)
   - [5.2 HTML and CSS](#52-html-and-css)
