@@ -164,29 +164,64 @@ After a review of Google Fonts 'Poppins' was selected as the primary font with A
 
 The navigation function must exist on all pages and be fully responsive
 
-It will be identical on each page and will be shown as a 'hamburger' menu
-
 This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button
+
+It will be identical on each page and will be shown as a 'hamburger' menu
+![Nav1](docs/features/nav1.png)
+
+When expanded it shows simple navigation option, is underlined to show the active page and is animated on hover so the user knows which page will be selected
+
+![Nav](docs/features/nav.png)
+
+Other links are shown that are usually white but change to pink on hover.  These are used to provide quick navigation at convienient places on the site
+![Nav2](docs/features/nav2.png)
+
+Buttons will also be used that change color on hover, again these are used to give quick navigation options and to direct the flow of the site
+![Nav3](docs/features/nav3.png)
 
 ### 4.3 Hero Image
 
+![Hero](docs/features/hero.png)
+
 ### 4.4 Homepage Mid Section
+
+![Homepage mid](docs/features/homepage-mid.png)
 
 ### 4.5 Testimonials
 
+![Testimonial](docs/features/testimonial-accreditation.png)
+
 ### 4.6 Accreditations
+
+![Accreditation](docs/features/testimonial-accreditation.png)
 
 ### 4.7 Information on Types of Session
 
+![Sessions](docs/features/sessions.png)
+
 ### 4.8 Pricing
+
+![Pricing](docs/features/pricing.png)
 
 ### 4.9 Booking Form
 
+![Book](docs/features/book.png)
+
 ### 4.10 About Me Section
+
+![About Me](docs/features/about.png)
 
 ### 4.11 Contact Me Section
 
+![Contact](docs/features/contact.png)
+
 ### 4.12 Map
+
+![Map](docs/features/map.png)
+
+### 4.13 Logo
+
+![logo](docs/features/logo.png)
 
 ## 5.0 Testing
 
