@@ -359,33 +359,85 @@ The website was tested on the these browsers:
 
 2. Contact the client to book sessions
 
+| **Feature** | **Action** | **Result** |
+|-------------|------------|---------------------|
+| Session grid | On booking page see boxes with information in them | all necessary info is displayed |
+
 3. Feel reassured that the client is knowledgable and qualified
+
+| **Feature** | **Action** | **Result** |
+|-------------|------------|---------------------|
+| Session grid | On booking page see boxes with information in them | all necessary info is displayed |
 
 4. Learn about the client and her background
 
+| **Feature** | **Action** | **Result** |
+|-------------|------------|---------------------|
+| Session grid | On booking page see boxes with information in them | all necessary info is displayed |
+
 5. Find out where the client operates
+
+| **Feature** | **Action** | **Result** |
+|-------------|------------|---------------------|
+| Session grid | On booking page see boxes with information in them | all necessary info is displayed |
 
 6. Contact the client
 
+| **Feature** | **Action** | **Result** |
+|-------------|------------|---------------------|
+| Session grid | On booking page see boxes with information in them | all necessary info is displayed |
+
 7. Read testimonials and success stories from other users
+
+| **Feature** | **Action** | **Result** |
+|-------------|------------|---------------------|
+| Session grid | On booking page see boxes with information in them | all necessary info is displayed |
 
 ### As a Returning User
 
 8. Check what services are available that the user has not undertaken yet
 
+| **Feature** | **Action** | **Result** |
+|-------------|------------|---------------------|
+| Session grid | On booking page see boxes with information in them | all necessary info is displayed |
+
 9. Contact the client
+
+| **Feature** | **Action** | **Result** |
+|-------------|------------|---------------------|
+| Session grid | On booking page see boxes with information in them | all necessary info is displayed |
 
 10. Book sessions with the client
 
+| **Feature** | **Action** | **Result** |
+|-------------|------------|---------------------|
+| Session grid | On booking page see boxes with information in them | all necessary info is displayed |
 ### As the Site Owner
 
 11. Fully responsive
 
+| **Feature** | **Action** | **Result** |
+|-------------|------------|---------------------|
+| All pages | Test on multiple screen sizes | All content is viewable on all screen sizes |
+
 12. Simple and easy to use navigation
+
+| **Feature** | **Action** | **Result** |
+|-------------|------------|---------------------|
+| All pages | View and open/close hamburger menu | Simple page links, indicators and animation satisfy the requirement |
 
 13. A colour scheme that incorporates the shade of purple that is her key corporate style plus other colours that soften the imagery.  The provided corporate logo will be used
 
+| **Feature** | **Action** | **Result** |
+|-------------|------------|---------------------|
+| All Pages | View color scheme on all pages | The site color scheme is in line with the client requirements |
+| All Pages | View logo at the top of all pages | The client logo is shown and contrasts well with the header background |
+
 14. A footer that has links to her social media accounts
+
+| **Feature** | **Action** | **Result** |
+|-------------|------------|---------------------|
+| Footer | Scroll to the bottom of any page | Social media links are shown in the footer |
 
 ## 6.0 Unresolved Bugs
 
