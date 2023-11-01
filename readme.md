@@ -167,6 +167,7 @@ The navigation function must exist on all pages and be fully responsive
 This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button
 
 It will be identical on each page and will be shown as a 'hamburger' menu
+
 ![Nav1](docs/features/nav1.png)
 
 When expanded it shows simple navigation option, is underlined to show the active page and is animated on hover so the user knows which page will be selected
@@ -174,9 +175,11 @@ When expanded it shows simple navigation option, is underlined to show the activ
 ![Nav](docs/features/nav.png)
 
 Other links are shown that are usually white but change to pink on hover.  These are used to provide quick navigation at convienient places on the site
+
 ![Nav2](docs/features/nav2.png)
 
 Buttons will also be used that change color on hover, again these are used to give quick navigation options and to direct the flow of the site
+
 ![Nav3](docs/features/nav3.png)
 
 ### 4.3 Hero Image
