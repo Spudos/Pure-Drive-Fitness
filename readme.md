@@ -264,7 +264,15 @@ The company logo is whiote on a transparent background and is included at the to
 
 The white contrasts well with the purple header
 
-![logo](docs/features/logo.png)
+![Logo](docs/features/logo.png)
+
+### 4.14 Footer
+
+The footer displays links to the clients 3 social media accounts.  
+
+Each logo will change color and animate on hove so the user knows the are highlighting it
+
+![Footer](docs/features/footer.png)
 
 ## 5.0 Testing
 
@@ -339,6 +347,40 @@ The website was tested on the these browsers:
 - Mozilla Firefox
 
 ### 5.6 Test User Stories
+
+### 2.1 As a First Time User
+
+1. Find out what services are available, how they are priced and when they are available
+
+2. Contact the client to book sessions
+
+3. Feel reassured that the client is knowledgable and qualified
+
+4. Learn about the client and her background
+
+5. Find out where the client operates
+
+6. Contact the client
+
+7. Read testimonials and success stories from other users
+
+### 2.2 As a Returning User
+
+8. Check what services are available that the user has not undertaken yet
+
+9. Contact the client
+
+10. Book sessions with the client
+
+### 2.3 As the Site Owner
+
+11. Fully responsive
+
+12. Simple and easy to use navigation
+
+13. A colour scheme that incorporates the shade of purple that is her key corporate style plus other colours that soften the imagery.  The provided corporate logo will be used
+
+14. A footer that has links to her social media accounts
 
 ## 6.0 Unresolved Bugs
 
