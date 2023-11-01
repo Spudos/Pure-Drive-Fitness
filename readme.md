@@ -98,7 +98,7 @@ A simple, easy to use website would be the client’s preference.
 
 The landing page will include a hero image connected to physical training
 
-The body will include some headline information about tthe type of services the client provides and futher images that are meant to be aspirational
+The body will include some headline information about the type of services the client provides and futher images that are meant to be inspirational
 
 Testimonials and a visual representation of the clients accreditations will be included
 
@@ -210,7 +210,6 @@ The testimonials give reassurance from users that the client is knowledgable and
 
 ![Testimonial](docs/features/testimonial-accreditation.png)
 
-
 ### 4.6 Accreditations
 
 A visual representation of the clients credentials this section is outlined in pink to highlight it and give reassurance that the client has undergone extensive training
@@ -219,7 +218,7 @@ A visual representation of the clients credentials this section is outlined in p
 
 ### 4.7 Information on Types of Session
 
-A responive grid system is used to show most of the available sessions in one vbiew (on desktop)
+A responive grid system is used to show most of the available sessions in one view (on desktop)
 
 Buttons provide the oppourtunity for the user to book a session via the booking form
 
@@ -229,7 +228,7 @@ Buttons provide the oppourtunity for the user to book a session via the booking 
 
 Pricing is shown on each session view as per the screenshot above
 
-Below the session descriptions is a textual description of the types of session
+Below the session descriptions is a text description of the types of session
 
 ![Pricing](docs/features/pricing.png)
 
@@ -243,9 +242,9 @@ A date selector is included so the user can pick the preferred day for the sessi
 
 ### 4.10 About Me Section
 
-It is importnat to show the client as a friendly and qualifed personal trainer and this is what the about me page does
+It is importnnt to show the client as a friendly and qualifed personal trainer and this is what the about me page does
 
-It is difficult to give the level of informtation required without it becoming quite "wordy" so the page is split up with interesting images
+It is difficult to give the level of information required without it becoming quite "wordy" so the page is split up with interesting images
 
 ![About Me](docs/features/about.png)
 
@@ -263,7 +262,7 @@ The google maps iframe is shown on the contact me page so that the user knows wh
 
 ### 4.13 Logo
 
-The company logo is whiote on a transparent background and is included at the top of each page
+The company logo is white on a transparent background and is included at the top of each page
 
 The white contrasts well with the purple header
 
@@ -271,9 +270,9 @@ The white contrasts well with the purple header
 
 ### 4.14 Footer
 
-The footer displays links to the clients 3 social media accounts.  
+The footer displays links to the clients three social media accounts
 
-Each logo will change color and animate on hove so the user knows the are highlighting it
+Each logo will change color and animate on hove so the user knows they are highlighting it
 
 ![Footer](docs/features/footer.png)
 
@@ -372,7 +371,7 @@ The website was tested on the these browsers:
 |-------------|------------|---------------------|
 | About me | On about me page see comprehensive info about the client | Reassurance and infromation is given via the text |
 | Accreditations | Scroll to the bottom of the index page | A visual representation of the clients qualifications is shown |
-| Homepage mid section | Scroll to the middle of the index page | A visual representation with text of the clients specialisms is shown |
+| Homepage mid section | Scroll to the middle of the index page | A visual representation with text of the clients expertise is shown |
 
 4. Learn about the client and her background
 
@@ -439,7 +438,7 @@ The website was tested on the these browsers:
 | **Feature** | **Action** | **Result** |
 |-------------|------------|---------------------|
 | Color scheme and font | View color scheme on all pages | The site color scheme is in line with the client requirements |
-| Color scheme and font | View logo at the top of all pages | The client logo is shown and contrasts well with the header background |
+| Logo | View logo at the top of all pages | The client logo is shown and contrasts well with the header background |
 
 14. A footer that has links to her social media accounts
 
