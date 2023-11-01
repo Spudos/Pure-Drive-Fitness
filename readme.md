@@ -30,6 +30,7 @@
   - [4.10 About Me Section](#410-about-me-section)
   - [4.11 Contact Me Section](#411-contact-me-section)
   - [4.12 Map](#412-map)
+  - [4.13 Logo](#413-logo)
 - [5.0 Testing](#50-testing)
   - [5.1 Tests on Various Devices](#51-tests-on-various-devices)
   - [5.2 HTML and CSS](#52-html-and-css)
@@ -84,9 +85,9 @@ A simple, easy to use website would be the client’s preference.
 
 12. Simple and easy to use navigation
 
-13. A colour scheme that incorporates the shade of purple that is her key corporate style plus other colours that soften the imagery
+13. A colour scheme that incorporates the shade of purple that is her key corporate style plus other colours that soften the imagery.  The provided corporate logo will be used
 
-14. A footer that shows her social media information
+14. A footer that has links to her social media accounts
 
 ## 3.0 Website Concept and Wireframe
 
