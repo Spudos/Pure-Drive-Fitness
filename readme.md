@@ -93,11 +93,13 @@ A simple, easy to use website would be the client’s preference.
 
 ### 3.1 Index
 
-The landing page will include a hero image connected to training in some way
+The landing page will include a hero image connected to physical training
 
-The body will include some simple information to direct you to other areas of the site that you may be interested in and some testimonial information
+The body will include some headline information about tthe type of services the client provides and futher images that are meant to be aspirational
 
-User Stories covered - 2, 6
+Testimonials and a visual representation of the clients accreditations will be included
+
+User Stories covered - 3, 4, 7, 11, 12, 13, 14
 
 ![Wireframes](https://share.balsamiq.com/c/oama4tKbiDbRy5hRoUdP3U.png)
 
@@ -105,21 +107,21 @@ User Stories covered - 2, 6
 
 This page will show the various types of session and the price for each session
 
-This will also give information on how to book sessions
+This will also give a link to book sessions
 
 There will be a featured sessions which would be some sort of cost effective package
 
-User Stories covered - 1, 2, 7, 9
+User Stories covered - 1, 2, 6, 7, 8, 9, 10, 11, 12, 13, 14
 
 ![Wireframes](https://share.balsamiq.com/c/6HLR6eLps2xexKuZK361Ci.png)
 
 ### 3.3 Booking Form
 
-The booking form will provide a simple tool to capture the initial information for thre client to make a booking
+The booking form will provide a simple tool to capture the initial information for the user to make a booking
 
 This will be navigated to via the booking page so that the user is aware of the pricing structure and style of the sessions before they make a booking
 
-User Stories covered - 1, 8, 9
+User Stories covered - 2, 6, 9, 10, 11, 12, 13, 14
 
 ![Wireframes](https://share.balsamiq.com/c/k9c32c3NrsmGkCkpMqmNME.png)
 
@@ -129,9 +131,9 @@ This page is about introducing the client to the customer
 
 People often feel nervous about signing up with a Personal Trainer, so it is important to show that the client is a friendly and likable person who really wants to help the customer with their personal journey
 
-The text needs to highlight the training the client has undertaken
+It should include positive imagery that has an uplifting feel
 
-User Stories covered - 1, 2, 3
+User Stories covered - 1, 3, 4, 7, 11, 12, 13, 14
 
 ![Wireframes](https://share.balsamiq.com/c/6yba6iwNgoZqxyf9vXNsqY.png)
 
@@ -139,11 +141,13 @@ User Stories covered - 1, 2, 3
 
 We will include a simple sign-up form that does not require too much information so that there are few barriers to the sign up
 
-We want to gather just enough information for the client to be able to contact the customer and begin the process of arranging session
+We want to gather just enough information for the client to be able to contact the user when the user is not yet ready to book a session
+
+We will also show email and telephone contact information
 
 We will include location information in the form of google maps and an address
 
-User Stories covered - 4, 5, 8
+User Stories covered - 2, 5, 6, 9, 11, 12, 13, 14
 
 ![Wireframes](https://share.balsamiq.com/c/8qEQbK7Nawz2fgMXDofgwi.png)
 
@@ -185,45 +189,80 @@ Buttons will also be used that change color on hover, again these are used to gi
 
 ### 4.3 Hero Image
 
+This has a very simple header above the hero image as we already use the company logo in the header and we want the strong images of fit people training and exercises to be highly insprirational
+
 ![Hero](docs/features/hero.png)
 
 ### 4.4 Homepage Mid Section
+
+This shows headline information about key areas of the clients expertise and pictures that motivate you to strive to be like the people in the image or to find out more
 
 ![Homepage mid](docs/features/homepage-mid.png)
 
 ### 4.5 Testimonials
 
+Shown using the Amatic SC font so it is eyecatching, looks more like "speech" and adds visual variety to the page the testimonial can be see in this image about the accreditation section
+
+The testimonials give reassurance from users that the client is knowledgable and capable
+
 ![Testimonial](docs/features/testimonial-accreditation.png)
 
+
 ### 4.6 Accreditations
+
+A visual representation of the clients credentials this section is outlined in pink to highlight it and give reassurance that the client has undergone extensive training
 
 ![Accreditation](docs/features/testimonial-accreditation.png)
 
 ### 4.7 Information on Types of Session
 
+A responive grid system is used to show most of the available sessions in one vbiew (on desktop)
+
+Buttons provide the oppourtunity for the user to book a session via the booking form
+
 ![Sessions](docs/features/sessions.png)
 
 ### 4.8 Pricing
+
+Pricing is shown on each session view as per the screenshot above
+
+Below the session descriptions is a textual description of the types of session
 
 ![Pricing](docs/features/pricing.png)
 
 ### 4.9 Booking Form
 
+The booking form captures the information required to begin the process of booking sessions
+
+A date selector is included so the user can pick the preferred day for the session
+
 ![Book](docs/features/book.png)
 
 ### 4.10 About Me Section
+
+It is importnat to show the client as a friendly and qualifed personal trainer and this is what the about me page does
+
+It is difficult to give the level of informtation required without it becoming quite "wordy" so the page is split up with interesting images
 
 ![About Me](docs/features/about.png)
 
 ### 4.11 Contact Me Section
 
+The contact me form uses a similar layout to the booking page but also asks the user what their main goals are and has email and phone contact details
+
 ![Contact](docs/features/contact.png)
 
 ### 4.12 Map
 
+The google maps iframe is shown on the contact me page so that the user knows where sessions are to be held
+
 ![Map](docs/features/map.png)
 
 ### 4.13 Logo
+
+The company logo is whiote on a transparent background and is included at the top of each page
+
+The white contrasts well with the purple header
 
 ![logo](docs/features/logo.png)
 
