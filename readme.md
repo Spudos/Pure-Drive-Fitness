@@ -58,7 +58,7 @@ A simple, easy to use website would be the client’s preference.
 
 ### 2.1 As a First Time User
 
-1. Find out what services are available, how they are priced and when they are available
+1. Find out what services are available and how they are priced
 
 2. Contact the client to book sessions
 
@@ -349,9 +349,13 @@ The website was tested on the these browsers:
 
 ### 5.6 Test User Stories
 
-### 2.1 As a First Time User
+### As a First Time User
 
-1. Find out what services are available, how they are priced and when they are available
+1. Find out what services are available and how they are priced
+
+| **Feature** | **Action** | **Result** |
+|-------------|------------|---------------------|
+| Session grid | On booking page see boxes with information in them | all necessary info is displayed |
 
 2. Contact the client to book sessions
 
@@ -365,7 +369,7 @@ The website was tested on the these browsers:
 
 7. Read testimonials and success stories from other users
 
-### 2.2 As a Returning User
+### As a Returning User
 
 8. Check what services are available that the user has not undertaken yet
 
@@ -373,7 +377,7 @@ The website was tested on the these browsers:
 
 10. Book sessions with the client
 
-### 2.3 As the Site Owner
+### As the Site Owner
 
 11. Fully responsive
 
