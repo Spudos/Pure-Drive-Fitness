@@ -90,6 +90,8 @@ A simple, easy to use website would be the client’s preference.
 
 14. A footer that has links to her social media accounts
 
+15. Have a hero image that is inspriational to users
+
 ## 3.0 Website Concept and Wireframe
 
 ### 3.1 Index
@@ -100,7 +102,7 @@ The body will include some headline information about tthe type of services the 
 
 Testimonials and a visual representation of the clients accreditations will be included
 
-User Stories covered - 3, 4, 7, 11, 12, 13, 14
+User Stories covered - 3, 4, 7, 11, 12, 13, 14, 15
 
 ![Wireframes](https://share.balsamiq.com/c/oama4tKbiDbRy5hRoUdP3U.png)
 
@@ -361,37 +363,41 @@ The website was tested on the these browsers:
 
 | **Feature** | **Action** | **Result** |
 |-------------|------------|---------------------|
-| Session grid | On booking page see boxes with information in them | all necessary info is displayed |
+| Booking form | On booking page click "book" button to go to booking form and complete that form | User can send booking form and select a date for a session |
+| Pricing | On booking page see boxes with pricing information in them | All necessary info is displayed |
 
 3. Feel reassured that the client is knowledgable and qualified
 
 | **Feature** | **Action** | **Result** |
 |-------------|------------|---------------------|
-| Session grid | On booking page see boxes with information in them | all necessary info is displayed |
+| About me | On about me page see comprehensive info about the client | Reassurance and infromation is given via the text |
+| Accreditations | Scroll to the bottom of the index page | A visual representation of the clients qualifications is shown |
+| Homepage mid section | Scroll to the middle of the index page | A visual representation with text of the clients specialisms is shown |
 
 4. Learn about the client and her background
 
 | **Feature** | **Action** | **Result** |
 |-------------|------------|---------------------|
-| Session grid | On booking page see boxes with information in them | all necessary info is displayed |
+| About me | On about me page see comprehensive info about the client | Reassurance and infromation is given via the text |
+| Accreditations | Scroll to the bottom of the index page | A visual representation of the clients qualifications is shown |
 
 5. Find out where the client operates
 
 | **Feature** | **Action** | **Result** |
 |-------------|------------|---------------------|
-| Session grid | On booking page see boxes with information in them | all necessary info is displayed |
+| Map | On contact page see iframe including the map | The map clearly shows where sessions are held |
 
 6. Contact the client
 
 | **Feature** | **Action** | **Result** |
 |-------------|------------|---------------------|
-| Session grid | On booking page see boxes with information in them | all necessary info is displayed |
+| Contact page | Send contact form to client or use email and phone details | Using this page multiple contact options are shown and usuable |
 
 7. Read testimonials and success stories from other users
 
 | **Feature** | **Action** | **Result** |
 |-------------|------------|---------------------|
-| Session grid | On booking page see boxes with information in them | all necessary info is displayed |
+| Testimonials | On various pages testimonials are shown | Quotes from users are included on the site |
 
 ### As a Returning User
 
@@ -399,19 +405,21 @@ The website was tested on the these browsers:
 
 | **Feature** | **Action** | **Result** |
 |-------------|------------|---------------------|
-| Session grid | On booking page see boxes with information in them | all necessary info is displayed |
+| Session grid | On booking page see boxes with information in them | All necessary info is displayed |
+| Pricing | On booking page see boxes with pricing information in them | All necessary info is displayed |
 
 9. Contact the client
 
 | **Feature** | **Action** | **Result** |
 |-------------|------------|---------------------|
-| Session grid | On booking page see boxes with information in them | all necessary info is displayed |
+| Contact page | Send contact form to client or use email and phone details | Using this page multiple contact options are shown and usuable |
 
 10. Book sessions with the client
 
 | **Feature** | **Action** | **Result** |
 |-------------|------------|---------------------|
-| Session grid | On booking page see boxes with information in them | all necessary info is displayed |
+| Booking form | On booking page click "book" button to go to booking form and complete that form | User can send booking form and select a date for a session |
+
 ### As the Site Owner
 
 11. Fully responsive
@@ -424,20 +432,26 @@ The website was tested on the these browsers:
 
 | **Feature** | **Action** | **Result** |
 |-------------|------------|---------------------|
-| All pages | View and open/close hamburger menu | Simple page links, indicators and animation satisfy the requirement |
+| Navigation | View and open/close hamburger menu | Simple page links, indicators and animation satisfy the requirement |
 
 13. A colour scheme that incorporates the shade of purple that is her key corporate style plus other colours that soften the imagery.  The provided corporate logo will be used
 
 | **Feature** | **Action** | **Result** |
 |-------------|------------|---------------------|
-| All Pages | View color scheme on all pages | The site color scheme is in line with the client requirements |
-| All Pages | View logo at the top of all pages | The client logo is shown and contrasts well with the header background |
+| Color scheme and font | View color scheme on all pages | The site color scheme is in line with the client requirements |
+| Color scheme and font | View logo at the top of all pages | The client logo is shown and contrasts well with the header background |
 
 14. A footer that has links to her social media accounts
 
 | **Feature** | **Action** | **Result** |
 |-------------|------------|---------------------|
 | Footer | Scroll to the bottom of any page | Social media links are shown in the footer |
+
+15. Have a hero image that is inspriational to users
+
+| **Feature** | **Action** | **Result** |
+|-------------|------------|---------------------|
+| Hero | View the top of the homepage | A hero image of two people working hard in the gym is included |
 
 ## 6.0 Unresolved Bugs
 
